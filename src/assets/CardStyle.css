@@ -1,0 +1,11 @@
+.card {
+    width: 18rem;
+    max-width: 18rem;
+    max-height: 18rem;
+    background-color: #333;
+}
+
+.card-body {
+    background-color: #333;
+    color: #eee;
+}

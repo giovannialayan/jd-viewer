@@ -1,0 +1,34 @@
+{
+    "songs": [
+        {"title": "All You Gotta Do (Is Just Dance)", "difficulty": "Easy", "game": "Just Dance 2018", "mode": "Solo", "artist": "The Just Dance Band", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/df/Allyougotta_cover_generic_8thgen.jpg", "gameplay": "https://www.youtube.com/watch?v=NppfjI2igY4"},
+        {"title": "Another One Bites The Dust", "difficulty": "Easy", "game": "Just Dance 2018", "mode": "Quartet", "artist": "Queen", "thumbnail": "", "gameplay": "https://www.youtube.com/watch?v=IEYnVqu5F60"},
+        {"title": "Baby One More Time", "difficulty": "Easy", "game": "Just Dance 3", "mode": "Quartet", "artist": "The Girly Team", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d6/Babyonemorequat_jdnow_cover_generic.jpg", "gameplay": "https://www.youtube.com/watch?v=t2SeBDEgwek"},
+        {"title": "Boogie Wonderland", "difficulty": "Easy", "game": "Just Dance 3", "mode": "Quartet", "artist": "Groove Century", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a3/Boogiewonderquat_jdu_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=PkHrtoNSfOI"},
+        {"title": "Can't Take My Eyes Off You", "difficulty": "Easy", "game": "Just Dance 4", "mode": "Duet", "artist": "Boys Town Gang", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/47/Canttakemyeyes_jdu_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=vz0F4L-CEtc"},
+        {"title": "Don't Let Me down", "difficulty": "Easy", "game": "Just Dance Unlimited", "mode": "Duet", "artist": "The Chainsmokers ft. Daya", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/63/DontLet_Cover_Generic.png", "gameplay": "https://www.youtube.com/watch?v=gzdo3l_ph5I"},
+        {"title": "Don't Stop Me Now", "difficulty": "Medium", "game": "Just Dance 2017", "mode": "Solo", "artist": "Queen", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d6/Dontstopme_cover_generic.jpg", "gameplay": "https://www.youtube.com/watch?v=p8LxsHqx6yI"},
+        {"title": "Drum Go Dum", "difficulty": "Extreme", "game": "Just Dance Unlimited", "mode": "Quartet", "artist": "K/DA ft. Aluna, Wolftyla, and Bekuh BOOM", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/54/Kdance_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=AaQOJP8KgjU"},
+        {"title": "FANCY", "difficulty": "Medium", "game": "Just Dance 2020", "mode": "Trio", "artist": "Twice", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d0/Fancytwice_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=rkbnE2De5y0"},
+        {"title": "Fight Club", "difficulty": "Medium", "game": "Just Dance 2018", "mode": "Solo", "artist": "Lights", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/33/Sidewinder_cover_generic.jpg", "gameplay": "https://www.youtube.com/watch?v=C3FK1yCTk-w"},
+        {"title": "Ghost In The Keys", "difficulty": "Easy", "game": "Just Dance 2017", "mode": "Quartet", "artist": "Halloween Thrills", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/69/Ghostinthekeys.png", "gameplay": "https://www.youtube.com/watch?v=0aFCGNBlnZo"},
+        {"title": "I Will Survive", "difficulty": "Easy", "game": "Just Dance 2014", "mode": "Solo", "artist": "Gloria Gaynor", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e6/Iwillsurvive_jdu_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=Ai_UTvxtNeA"},
+        {"title": "Imya 505 (Имя 505)", "difficulty": "Medium", "game": "Just Dance 2017", "mode": "solo", "artist": "Время и Стекло", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/17/Imya505_Cover_Phone.jpg", "gameplay": "https://www.youtube.com/watch?v=dLfbXGleUao"},
+        {"title": "Kaboom Pow", "difficulty": "Medium", "game": "Just Dance 2016", "mode": "Solo", "artist": "Nikki Yanofsky", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/73/Kaboompow_jd2016_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=VhoOWPXdiLo"},
+        {"title": "Kill This Love", "difficulty": "Extreme", "game": "Just Dance 2020", "mode": "Solo", "artist": "Blackpink", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d3/Killthislovealt_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=C3TNC1FmtFk"},
+        {"title": "Never Gonna Give You Up", "difficulty": "Easy", "game": "Just Dance 4", "mode": "Solo", "artist": "Rick Astley", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7d/NeverGonna_JDU_Cover_Generic.png", "gameplay": "https://www.youtube.com/watch?v=SPrfG3C_Xns"},
+        {"title": "New Face", "difficulty": "Medium", "game": "Just Dance 2017", "mode": "Trio", "artist": "Psy", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5a/Newface_cover_generic.jpg", "gameplay": "https://www.youtube.com/watch?v=83u2KZD6gsM"},
+        {"title": "Rainbow Beats", "difficulty": "Hard", "game": "Just Dance Unlimited", "mode": "Duet", "artist": "Yi Yan/Zhao Fang Jing/Suika Kune/Feizaojun", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/96/Rainbowrhythm_jd2020c_cover_generic.png", "gameplay": "https://www.youtube.com/watch?v=L5I2b9KJ7B8"},
+        {"title": "Sax", "difficulty": "Medium", "game": "Just Dance Unlimited", "mode": "Trio", "artist": "Fleur East", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c2/Sax_cover_generic.jpg", "gameplay": "https://www.youtube.com/watch?v=jpAFP5yBS3Y"},
+        {"title": "Take On Me", "difficulty": "Easy", "game": "Just Dance 3", "mode": "Solo", "artist": "a-ha", "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3a/Takeonme_jdnow_cover_generic.jpg", "gameplay": "https://www.youtube.com/watch?v=RuskK_Cem7A"},
+                
+        
+        
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""},
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""},
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""},
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""},
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""},
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""},
+        {"title": "", "difficulty": "", "game": "", "mode": "", "artist": "", "thumbnail": "", "gameplay": ""}
+    ]
+}
