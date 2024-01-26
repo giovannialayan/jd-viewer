@@ -31,7 +31,7 @@ const SongCard = ({
         <p className='card-text'>Coaches: {mode}</p>
         <p className='card-text'>Artist: {artist}</p>
         <a href={gameplay} target='_blank' className='btn btn-primary'>
-          play
+          watch dance
         </a>
       </div>
     </div>
