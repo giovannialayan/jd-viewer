@@ -1,0 +1,8 @@
+.card-group {
+  justify-content: space-evenly;
+}
+
+.cardGroupHeader {
+  color: #fff;
+  text-align: center;
+}

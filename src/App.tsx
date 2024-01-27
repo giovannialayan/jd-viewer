@@ -1,25 +1,59 @@
 import { useState } from 'react';
-import SongCard from './components/SongCard';
 import data from './assets/songs.json';
-import CardGroup from 'react-bootstrap/CardGroup';
+import NavBar from './components/NavBar';
+import SongCardGroup from './components/SongCardGroup';
+import * as SongSorter from './SongSorter';
 
 function App() {
+  const [searchResult, setSearchResult] = useState('');
+  const [sortMode, setSortMode] = useState('title');
+  const [sortedSongList, setSortedSongList] = useState([data.songs]);
+  const [groupNames, setGroupNames] = useState(['']);
+
+  const sortSongs = (mode: string) => {
+    setSortMode(mode);
+    switch (mode) {
+      case 'title':
+        let sortedByTitle = SongSorter.sortbyTitle(data.songs);
+
+        setSortedSongList(sortedByTitle.songList);
+        setGroupNames(sortedByTitle.groupNames);
+        break;
+
+      case 'difficulty':
+        let sortedByDifficulty = SongSorter.sortbyDifficulty(data.songs);
+
+        setSortedSongList(sortedByDifficulty.songList);
+        setGroupNames(sortedByDifficulty.groupNames);
+        break;
+
+      case 'game':
+        let sortedByGame = SongSorter.sortbyGame(data.songs);
+
+        setSortedSongList(sortedByGame.songList);
+        setGroupNames(sortedByGame.groupNames);
+        break;
+
+      case 'mode':
+        let sortedByMode = SongSorter.sortbyMode(data.songs);
+
+        setSortedSongList(sortedByMode.songList);
+        setGroupNames(sortedByMode.groupNames);
+        break;
+
+      case 'artist':
+        let sortedByArtist = SongSorter.sortbyArtist(data.songs);
+
+        setSortedSongList(sortedByArtist.songList);
+        setGroupNames(sortedByArtist.groupNames);
+        break;
+    }
+  };
+
   return (
     <div className='container-fluid'>
-      <CardGroup>
-        {data.songs.map((song, index) => (
-          <SongCard
-            key={index}
-            title={song.title}
-            difficulty={song.difficulty}
-            game={song.game}
-            mode={song.mode}
-            artist={song.artist}
-            thumbnail={song.thumbnail}
-            gameplay={song.gameplay}
-          ></SongCard>
-        ))}
-      </CardGroup>
+      <NavBar setSearchResult={setSearchResult} sortMode={sortMode} sortSongs={sortSongs}></NavBar>
+      <SongCardGroup sortedSongList={sortedSongList} groupNames={groupNames} searchResult={searchResult}></SongCardGroup>
     </div>
   );
 }
