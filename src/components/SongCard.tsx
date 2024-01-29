@@ -1,26 +1,21 @@
+import Song from '../interfaces/ISong';
+
 interface Props {
-  title: string;
-  difficulty: string;
-  game: string;
-  mode: string;
-  artist: string;
-  thumbnail: string;
-  gameplay: string;
+  song: Song;
 }
 
-const SongCard = ({ title, difficulty, game, mode, artist, thumbnail, gameplay }: Props) => {
+const SongCard = ({ song }: Props) => {
   return (
     <div className='card'>
-      <img src={thumbnail} className='card-img-top' alt={`${title} thumbnail`} />
+      <a href={song.gameplay} target='_blank'>
+        <img src={song.thumbnail} className='card-img-top' alt={`${song.title} thumbnail`} />
+      </a>
       <div className='card-body'>
-        <h5 className='card-title'>{title}</h5>
-        <p className='card-text'>Difficulty: {difficulty}</p>
-        <p className='card-text'>Game: {game}</p>
-        <p className='card-text'>Coaches: {mode}</p>
-        <p className='card-text'>Artist: {artist}</p>
-        <a href={gameplay} target='_blank' className='btn btn-primary'>
-          watch dance
-        </a>
+        <h5 className='card-title'>{song.title}</h5>
+        <p className='card-text'>Difficulty: {song.difficulty}</p>
+        <p className='card-text'>Game: {song.game}</p>
+        <p className='card-text'>Coaches: {song.mode}</p>
+        <p className='card-text'>Artist: {song.artist}</p>
       </div>
     </div>
   );

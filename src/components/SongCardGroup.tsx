@@ -21,18 +21,7 @@ function SongCardGroup({ sortedSongList, groupNames, searchResult }: Props) {
               <CardGroup key={index}>
                 {group.map(
                   (song: Song, index: number) =>
-                    song.title.toLowerCase().includes(searchResult.trim().toLowerCase()) && (
-                      <SongCard
-                        key={index}
-                        title={song.title}
-                        difficulty={song.difficulty}
-                        game={song.game}
-                        mode={song.mode}
-                        artist={song.artist}
-                        thumbnail={song.thumbnail}
-                        gameplay={song.gameplay}
-                      ></SongCard>
-                    )
+                    song.title.toLowerCase().includes(searchResult.trim().toLowerCase()) && <SongCard key={index} song={song}></SongCard>
                 )}
               </CardGroup>
             </div>

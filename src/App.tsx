@@ -1,14 +1,19 @@
 import { useState } from 'react';
+import { Button } from 'react-bootstrap';
 import data from './assets/songs.json';
 import NavBar from './components/NavBar';
 import SongCardGroup from './components/SongCardGroup';
+import SongCard from './components/SongCard';
 import * as SongSorter from './SongSorter';
+import Song from './interfaces/ISong';
 
 function App() {
   const [searchResult, setSearchResult] = useState('');
   const [sortMode, setSortMode] = useState('title');
   const [sortedSongList, setSortedSongList] = useState([data.songs]);
   const [groupNames, setGroupNames] = useState(['']);
+  const [page, setPage] = useState(0);
+  const [randomSong, setRandomSong] = useState({} as Song);
 
   const sortSongs = (mode: string) => {
     setSortMode(mode);
@@ -50,11 +55,57 @@ function App() {
     }
   };
 
+  const goToPage = (targetPage: number) => {
+    setPage(targetPage);
+
+    setSearchResult('');
+
+    switch (targetPage) {
+      case 1:
+        getRandomSong();
+        break;
+    }
+  };
+
+  const getRandomSong = () => {
+    const eligibleSongs = data.songs.filter((song) => song !== randomSong);
+    setRandomSong(eligibleSongs[Math.floor(Math.random() * eligibleSongs.length)]);
+  };
+
   return (
-    <div className='container-fluid'>
-      <NavBar setSearchResult={setSearchResult} sortMode={sortMode} sortSongs={sortSongs}></NavBar>
-      <SongCardGroup sortedSongList={sortedSongList} groupNames={groupNames} searchResult={searchResult}></SongCardGroup>
-    </div>
+    <>
+      {page === 0 && (
+        <div className='container-fluid'>
+          <NavBar
+            displayArr={[true, true, true]}
+            onNav={() => goToPage(1)}
+            targetLocation='Random'
+            setSearchResult={setSearchResult}
+            sortMode={sortMode}
+            sortSongs={sortSongs}
+          ></NavBar>
+          <SongCardGroup sortedSongList={sortedSongList} groupNames={groupNames} searchResult={searchResult}></SongCardGroup>
+        </div>
+      )}
+      {page === 1 && (
+        <div className='container-fluid'>
+          <NavBar
+            displayArr={[false, false, true]}
+            onNav={() => goToPage(0)}
+            targetLocation='Song List'
+            setSearchResult={setSearchResult}
+            sortMode={sortMode}
+            sortSongs={sortSongs}
+          ></NavBar>
+          <div className='d-flex flex-column align-items-center'>
+            <Button className='randomButton' onClick={getRandomSong} variant='secondary'>
+              Random Song
+            </Button>
+            <SongCard song={randomSong}></SongCard>
+          </div>
+        </div>
+      )}
+    </>
   );
 }
 
