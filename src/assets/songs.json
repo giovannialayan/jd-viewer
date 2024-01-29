@@ -1,6 +1,24 @@
 {
   "songs": [
     {
+      "title": "24K Magic",
+      "difficulty": "Easy",
+      "game": "Just Dance 2018",
+      "mode": "Duet",
+      "artist": "Bruno Mars",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3a/24k_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=fkVD-v_TXkc"
+    },
+    {
+      "title": "24K Magic (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Bruno Mars",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d7/24kalt_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=tbp8Xclin_Q"
+    },
+    {
       "title": "all the good girls go to hell",
       "difficulty": "Medium",
       "game": "Just Dance 2021",
@@ -26,6 +44,15 @@
       "artist": "Queen",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/be/Anotherone_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=IEYnVqu5F60"
+    },
+    {
+      "title": "Another One Bites The Dust (Stunt Version)",
+      "difficulty": "Hard",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Queen",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/73/Anotheronealt_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=km0qUSWNOLc"
     },
     {
       "title": "Baby One More Time",
@@ -73,6 +100,15 @@
       "gameplay": "https://www.youtube.com/watch?v=PkHrtoNSfOI"
     },
     {
+      "title": "Bubble Pop!",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Trio",
+      "artist": "HyunA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/41/Bubblepop_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=g6cAaT6o5uw"
+    },
+    {
       "title": "Can't Take My Eyes Off You",
       "difficulty": "Easy",
       "game": "Just Dance 4",
@@ -80,6 +116,15 @@
       "artist": "Boys Town Gang",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/47/Canttakemyeyes_jdu_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=vz0F4L-CEtc"
+    },
+    {
+      "title": "Can't Take My Eyes Off You (Wrestler Version)",
+      "difficulty": "Hard",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Boys Town Gang",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7b/Canttakemyeyesalt.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=GFHgy3nrOOE"
     },
     {
       "title": "Crucified",
@@ -98,6 +143,24 @@
       "artist": "Tones and I",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0a/DanceMonkey_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=bI7QZHzva-E"
+    },
+    {
+      "title": "Despacito",
+      "difficulty": "Easy",
+      "game": "Just Dance 2018",
+      "mode": "Quartet",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b2/Despacito_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=AfevTRCrJi4"
+    },
+    {
+      "title": "Despacito (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/00/Despacitoalt_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=BZ5C-lq6Kzw"
     },
     {
       "title": "Don't Let Me down",
@@ -179,6 +242,24 @@
       "artist": "Lights",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/33/Sidewinder_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=C3FK1yCTk-w"
+    },
+    {
+      "title": "Gentleman",
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Psy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d8/Gentleman_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ZWETzrHo0ak"
+    },
+    {
+      "title": "Gentleman (Sweat Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Psy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/79/Gentlemanswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=px4kCnfbnxg"
     },
     {
       "title": "Georgia",
@@ -307,6 +388,15 @@
       "gameplay": "https://www.youtube.com/watch?v=jpAFP5yBS3Y"
     },
     {
+      "title": "Say So",
+      "difficulty": "Easy",
+      "game": "Just Dance 2021",
+      "mode": "Duet",
+      "artist": "Doja Cat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/22/Sayso_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=LgSwygAVqhc"
+    },
+    {
       "title": "Take On Me",
       "difficulty": "Easy",
       "game": "Just Dance 3",
@@ -314,6 +404,33 @@
       "artist": "a-ha",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3a/Takeonme_jdnow_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=RuskK_Cem7A"
+    },
+    {
+      "title": "The Weekend",
+      "difficulty": "Hard",
+      "game": "Just Dance 2021",
+      "mode": "Duet",
+      "artist": "Michael Gray",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e3/Theweekend_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=DAY-c2J4E7k"
+    },
+    {
+      "title": "Without Me",
+      "difficulty": "Hard",
+      "game": "Just Dance 2021",
+      "mode": "Trio",
+      "artist": "Eminem",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/26/WithoutMe_Cover_Phone.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=pah4UbDxld0"
+    },
+    {
+      "title": "Without Me (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2021",
+      "mode": "Solo",
+      "artist": "Eminem",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/29/Withoutmealtretake_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=kQ1sbdLAWrc"
     }
   ]
 }
