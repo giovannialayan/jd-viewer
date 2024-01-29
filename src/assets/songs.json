@@ -73,6 +73,15 @@
       "gameplay": "https://www.youtube.com/watch?v=7-4REg-iktQ"
     },
     {
+      "title": "bad guy (Billie Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2020",
+      "mode": "Solo",
+      "artist": "Billie Eilish",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/86/BadGuyALT_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=5vXqZXLK3Ik"
+    },
+    {
       "title": "Blinding Lights",
       "difficulty": "Easy",
       "game": "Just Dance 2021",
@@ -244,6 +253,24 @@
       "gameplay": "https://www.youtube.com/watch?v=C3FK1yCTk-w"
     },
     {
+      "title": "Finesse (Remix)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Quartet",
+      "artist": "Bruno Mars ft. Cardi B",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/69/Finesse_jd2019_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=A_Vu2yEjXzI"
+    },
+    {
+      "title": "Finesse (Remix) (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2019",
+      "mode": "Quartet",
+      "artist": "Bruno Mars ft. Cardi B",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a7/Finessealt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=T6VDYtCexAg"
+    },
+    {
       "title": "Gentleman",
       "difficulty": "Medium",
       "game": "Just Dance 2014",
@@ -352,6 +379,15 @@
       "gameplay": "https://www.youtube.com/watch?v=C3TNC1FmtFk"
     },
     {
+      "title": "Kissing Strangers",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Duet",
+      "artist": "DNCE ft. Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/1e/Kissingstrangers_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=PlkCV4Ey-B4"
+    },
+    {
       "title": "Never Gonna Give You Up",
       "difficulty": "Easy",
       "game": "Just Dance 4",
@@ -368,6 +404,24 @@
       "artist": "Psy",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5a/Newface_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=83u2KZD6gsM"
+    },
+    {
+      "title": "New Rules",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Dua Lipa",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/8f/Newrules_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=kt4Jd8a8w2g"
+    },
+    {
+      "title": "New Rules (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Dua Lipa",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c8/Newrulesalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=uYAAFTC0Vm4"
     },
     {
       "title": "Rainbow Beats",
@@ -395,6 +449,24 @@
       "artist": "Doja Cat",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/22/Sayso_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=LgSwygAVqhc"
+    },
+    {
+      "title": "Side to Side",
+      "difficulty": "Easy",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Ariana Grande ft. Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f7/Sideto_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=_SxNvIPLvbY"
+    },
+    {
+      "title": "Swish Swish",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Quartet",
+      "artist": "Katy Perry ft. Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e1/Swishswish_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=J-fuU87BbNU"
     },
     {
       "title": "Take On Me",
