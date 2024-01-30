@@ -1,111 +1,53 @@
-import { useState } from 'react';
-import { Button } from 'react-bootstrap';
+import { useEffect, useState } from 'react';
 import data from './assets/songs.json';
+import SongList from './pages/SongList';
+import RandomSong from './pages/RandomSong';
 import NavBar from './components/NavBar';
-import SongCardGroup from './components/SongCardGroup';
-import SongCard from './components/SongCard';
-import * as SongSorter from './SongSorter';
-import Song from './interfaces/ISong';
+import _ from 'lodash';
+import Favorites from './pages/Favorites';
 
 function App() {
-  const [searchResult, setSearchResult] = useState('');
-  const [sortMode, setSortMode] = useState('title');
-  const [sortedSongList, setSortedSongList] = useState([data.songs]);
-  const [groupNames, setGroupNames] = useState(['']);
   const [page, setPage] = useState(0);
-  const [randomSong, setRandomSong] = useState({} as Song);
+  const [favoriteSongs, setFavoriteSongs] = useState([] as string[]);
+  const [itemsLoaded, setItemsLoaded] = useState(false);
 
-  const sortSongs = (mode: string) => {
-    setSortMode(mode);
-    switch (mode) {
-      case 'title':
-        let sortedByTitle = SongSorter.sortbyTitle(data.songs);
+  useEffect(() => {
+    const items = localStorage.getItem('favorites');
 
-        setSortedSongList(sortedByTitle.songList);
-        setGroupNames(sortedByTitle.groupNames);
-        break;
-
-      case 'difficulty':
-        let sortedByDifficulty = SongSorter.sortbyDifficulty(data.songs);
-
-        setSortedSongList(sortedByDifficulty.songList);
-        setGroupNames(sortedByDifficulty.groupNames);
-        break;
-
-      case 'game':
-        let sortedByGame = SongSorter.sortbyGame(data.songs);
-
-        setSortedSongList(sortedByGame.songList);
-        setGroupNames(sortedByGame.groupNames);
-        break;
-
-      case 'mode':
-        let sortedByMode = SongSorter.sortbyMode(data.songs);
-
-        setSortedSongList(sortedByMode.songList);
-        setGroupNames(sortedByMode.groupNames);
-        break;
-
-      case 'artist':
-        let sortedByArtist = SongSorter.sortbyArtist(data.songs);
-
-        setSortedSongList(sortedByArtist.songList);
-        setGroupNames(sortedByArtist.groupNames);
-        break;
+    if (items) {
+      setFavoriteSongs(JSON.parse(items));
     }
-  };
+
+    setItemsLoaded(true);
+  }, []);
+
+  useEffect(() => {
+    if (itemsLoaded) {
+      localStorage.setItem('favorites', JSON.stringify(favoriteSongs));
+    }
+  }, [favoriteSongs]);
 
   const goToPage = (targetPage: number) => {
     setPage(targetPage);
-
-    setSearchResult('');
-
-    switch (targetPage) {
-      case 1:
-        getRandomSong();
-        break;
-    }
   };
 
-  const getRandomSong = () => {
-    const eligibleSongs = data.songs.filter((song) => song !== randomSong);
-    setRandomSong(eligibleSongs[Math.floor(Math.random() * eligibleSongs.length)]);
+  const editFavorite = (songName: string) => {
+    if (favoriteSongs.includes(songName)) {
+      setFavoriteSongs((favoriteSongs) => _.remove(favoriteSongs, (s) => s === songName));
+    } else {
+      setFavoriteSongs((favoriteSongs) => [...favoriteSongs, songName]);
+    }
+
+    setFavoriteSongs((favoriteSongs) => favoriteSongs.sort()); //write sort that doesnt care about casing or that compares against their pos in data.songs
   };
 
   return (
-    <>
-      {page === 0 && (
-        <div className='container-fluid'>
-          <NavBar
-            displayArr={[true, true, true]}
-            onNav={() => goToPage(1)}
-            targetLocation='Random'
-            setSearchResult={setSearchResult}
-            sortMode={sortMode}
-            sortSongs={sortSongs}
-          ></NavBar>
-          <SongCardGroup sortedSongList={sortedSongList} groupNames={groupNames} searchResult={searchResult}></SongCardGroup>
-        </div>
-      )}
-      {page === 1 && (
-        <div className='container-fluid'>
-          <NavBar
-            displayArr={[false, false, true]}
-            onNav={() => goToPage(0)}
-            targetLocation='Song List'
-            setSearchResult={setSearchResult}
-            sortMode={sortMode}
-            sortSongs={sortSongs}
-          ></NavBar>
-          <div className='d-flex flex-column align-items-center'>
-            <Button className='randomButton' onClick={getRandomSong} variant='secondary'>
-              Random Song
-            </Button>
-            <SongCard song={randomSong}></SongCard>
-          </div>
-        </div>
-      )}
-    </>
+    <div className='container-fluid'>
+      <NavBar currentPage={page} onNav={goToPage}></NavBar>
+      {page === 0 && <SongList songs={data.songs} currentPage={page} favoriteSongs={favoriteSongs} onSave={editFavorite}></SongList>}
+      {page === 1 && <Favorites songs={data.songs} currentPage={page} favoriteSongs={favoriteSongs} onSave={editFavorite}></Favorites>}
+      {page === 2 && <RandomSong songs={data.songs} favoriteSongs={favoriteSongs} currentPage={page} onSave={editFavorite}></RandomSong>}
+    </div>
   );
 }
 
