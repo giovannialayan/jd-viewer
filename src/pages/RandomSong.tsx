@@ -2,15 +2,15 @@ import { useEffect, useState } from 'react';
 import { Button } from 'react-bootstrap';
 import SongCard from '../components/SongCard';
 import Song from '../interfaces/ISong';
+import FavoriteData from '../interfaces/IFavorite';
 
 interface Props {
   songs: Song[];
   currentPage: number;
-  onSave: (songName: string) => void;
-  favoriteSongs: string[];
+  favoriteData: FavoriteData;
 }
 
-function RandomSong({ songs, currentPage, onSave, favoriteSongs }: Props) {
+function RandomSong({ songs, currentPage, favoriteData }: Props) {
   useEffect(() => {
     if (currentPage == 2) {
       getRandomSong();
@@ -29,7 +29,7 @@ function RandomSong({ songs, currentPage, onSave, favoriteSongs }: Props) {
       <Button className='randomButton' onClick={getRandomSong} variant='secondary'>
         Random Song
       </Button>
-      <SongCard song={randomSong} saved={favoriteSongs.includes(randomSong.title)} onSave={onSave}></SongCard>
+      <SongCard song={randomSong} saved={favoriteData.favoriteSongs.includes(randomSong.title)} onSave={favoriteData.onSave}></SongCard>
     </div>
   );
 }

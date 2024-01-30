@@ -1,16 +1,16 @@
 import CardGroup from 'react-bootstrap/CardGroup';
 import SongCard from './SongCard';
 import Song from '../interfaces/ISong';
+import FavoriteData from '../interfaces/IFavorite';
 
 interface Props {
   sortedSongList: Song[][];
   groupNames: string[];
   searchResult: string;
-  favoriteSongs: string[];
-  onSave: (songName: string) => void;
+  favoriteData: FavoriteData;
 }
 
-function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteSongs, onSave }: Props) {
+function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteData }: Props) {
   return (
     <>
       {sortedSongList.map((group, index) => {
@@ -24,7 +24,12 @@ function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteSongs
                 {group.map(
                   (song: Song, index: number) =>
                     song.title.toLowerCase().includes(searchResult.trim().toLowerCase()) && (
-                      <SongCard key={index} song={song} saved={favoriteSongs.includes(song.title)} onSave={onSave}></SongCard>
+                      <SongCard
+                        key={index}
+                        song={song}
+                        saved={favoriteData.favoriteSongs.includes(song.title)}
+                        onSave={favoriteData.onSave}
+                      ></SongCard>
                     )
                 )}
               </CardGroup>

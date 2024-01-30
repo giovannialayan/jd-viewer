@@ -100,6 +100,15 @@
       "gameplay": "https://www.youtube.com/watch?v=xnmVdLxQqxU"
     },
     {
+      "title": "Blow Your Mind (Mwah)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Dua Lipa",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3c/Blowyourmind_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=jmdIqYLflag"
+    },
+    {
       "title": "Boogie Wonderland",
       "difficulty": "Easy",
       "game": "Just Dance 3",
@@ -208,6 +217,15 @@
       "gameplay": "https://www.youtube.com/watch?v=p8LxsHqx6yI"
     },
     {
+      "title": "Dragostea Din Tei",
+      "difficulty": "Easy",
+      "game": "Just Dance 2017",
+      "mode": "Trio",
+      "artist": "O-Zone",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6c/Dragosteadintei_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=oEldFLrZ7_8"
+    },
+    {
       "title": "Drum Go Dum",
       "difficulty": "Extreme",
       "game": "Just Dance Unlimited",
@@ -271,6 +289,15 @@
       "gameplay": "https://www.youtube.com/watch?v=T6VDYtCexAg"
     },
     {
+      "title": "Footloose",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Top Culture",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0b/Footloose_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=v4F6ZmilZjo"
+    },
+    {
       "title": "Gentleman",
       "difficulty": "Medium",
       "game": "Just Dance 2014",
@@ -328,10 +355,28 @@
       "title": "Imya 505 (Имя 505)",
       "difficulty": "Medium",
       "game": "Just Dance 2017",
-      "mode": "solo",
+      "mode": "Solo",
       "artist": "Время и Стекло",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/17/Imya505_Cover_Phone.jpg",
       "gameplay": "https://www.youtube.com/watch?v=dLfbXGleUao"
+    },
+    {
+      "title": "In the Hall of the Pixel King",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Dancing Bros.",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/aa/8bitretake_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=7ygXMMbeIQI"
+    },
+    {
+      "title": "Instruction",
+      "difficulty": "Easy",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Jax Jones ft. Demi Lovato & Stefflon Don",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/18/Instruction_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ajmRTFL-pX4"
     },
     {
       "title": "Juice",
@@ -361,6 +406,15 @@
       "gameplay": "https://www.youtube.com/watch?v=VhoOWPXdiLo"
     },
     {
+      "title": "Keep On Moving",
+      "difficulty": "Medium",
+      "game": "Just Dance 2018",
+      "mode": "Solo",
+      "artist": "Michelle Delamor",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/83/Keepon_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=jG91nvT7jIY"
+    },
+    {
       "title": "Kill This Love",
       "difficulty": "Hard",
       "game": "Just Dance 2020",
@@ -386,6 +440,15 @@
       "artist": "DNCE ft. Nicki Minaj",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/1e/Kissingstrangers_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=PlkCV4Ey-B4"
+    },
+    {
+      "title": "Love Ward",
+      "difficulty": "Hard",
+      "game": "Just Dance 2018",
+      "mode": "Trio",
+      "artist": "Hatsune Miku",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0a/Loveward_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=tZZU5ZQzxH8"
     },
     {
       "title": "Never Gonna Give You Up",
@@ -424,6 +487,15 @@
       "gameplay": "https://www.youtube.com/watch?v=uYAAFTC0Vm4"
     },
     {
+      "title": "PoPiPo",
+      "difficulty": "Easy",
+      "game": "Just Dance 2017",
+      "mode": "Trio",
+      "artist": "Hatsune Miku",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/Popipo_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=gcykCFPv3Ak"
+    },
+    {
       "title": "Rainbow Beats",
       "difficulty": "Hard",
       "game": "Just Dance Unlimited",
@@ -431,6 +503,15 @@
       "artist": "Yi Yan/Zhao Fang Jing/Suika Kune/Feizaojun",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/96/Rainbowrhythm_jd2020c_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=L5I2b9KJ7B8"
+    },
+    {
+      "title": "Rockabye",
+      "difficulty": "Easy",
+      "game": "Just Dance 2018",
+      "mode": "Duet",
+      "artist": "Clean Bandit ft. Sean Paul and Anne-Marie",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/59/Rockabye_jd2018_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=QcSWxf56LBw"
     },
     {
       "title": "Sax",
@@ -476,6 +557,15 @@
       "artist": "Ariana Grande ft. Nicki Minaj",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f7/Sideto_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=_SxNvIPLvbY"
+    },
+    {
+      "title": "Slumber Party",
+      "difficulty": "Easy",
+      "game": "Just Dance 2018",
+      "mode": "Quartet",
+      "artist": "Britney Spears ft. Tinashe",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6b/Slumberparty_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=cND4i2AQqE4"
     },
     {
       "title": "Swish Swish",

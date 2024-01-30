@@ -1,23 +1,22 @@
 import { useEffect } from 'react';
 import SongList from './SongList';
 import Song from '../interfaces/ISong';
+import FavoriteData from '../interfaces/IFavorite';
 
 interface Props {
   songs: Song[];
-  favoriteSongs: string[];
-  onSave: (songName: string) => void;
   currentPage: number;
+  favoriteData: FavoriteData;
 }
 
-function Favorites({ songs, favoriteSongs, onSave, currentPage }: Props) {
+function Favorites({ songs, currentPage, favoriteData }: Props) {
   useEffect(() => {}, []);
 
   return (
     <SongList
-      songs={songs.filter((song) => favoriteSongs.includes(song.title))}
+      songs={songs.filter((song) => favoriteData.favoriteSongs.includes(song.title))}
       currentPage={currentPage}
-      favoriteSongs={favoriteSongs}
-      onSave={onSave}
+      favoriteData={favoriteData}
     ></SongList>
   );
 }

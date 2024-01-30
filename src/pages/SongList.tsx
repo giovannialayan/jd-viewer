@@ -3,15 +3,15 @@ import { Form, Dropdown, DropdownButton } from 'react-bootstrap';
 import SongCardGroup from '../components/SongCardGroup';
 import * as SongSorter from '../SongSorter';
 import Song from '../interfaces/ISong';
+import FavoriteData from '../interfaces/IFavorite';
 
 interface Props {
   songs: Song[];
   currentPage: number;
-  favoriteSongs: string[];
-  onSave: (songName: string) => void;
+  favoriteData: FavoriteData;
 }
 
-function SongList({ songs, currentPage, favoriteSongs, onSave }: Props) {
+function SongList({ songs, currentPage, favoriteData }: Props) {
   useEffect(() => {
     setSearchResult('');
   }, [currentPage]);
@@ -80,13 +80,7 @@ function SongList({ songs, currentPage, favoriteSongs, onSave }: Props) {
           <Dropdown.Item onClick={() => sortSongs('artist')}>Artist</Dropdown.Item>
         </DropdownButton>
       </div>
-      <SongCardGroup
-        sortedSongList={sortedSongList}
-        groupNames={groupNames}
-        searchResult={searchResult}
-        favoriteSongs={favoriteSongs}
-        onSave={onSave}
-      ></SongCardGroup>
+      <SongCardGroup sortedSongList={sortedSongList} groupNames={groupNames} searchResult={searchResult} favoriteData={favoriteData}></SongCardGroup>
     </div>
   );
 }
