@@ -65,7 +65,7 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
     <div className='container-fluid'>
       <div className='songListControls d-flex flex-row justify-content-center'>
         <Form>
-          <Form.Control type='text' placeholder='Search' className=' mr-sm-2' onChange={(e) => setSearchResult(e.currentTarget.value)} />
+          <Form.Control type='text' placeholder='Search' className='mr-sm-2' onChange={(e) => setSearchResult(e.currentTarget.value)} />
         </Form>
         <DropdownButton
           title={`Sort by: ${sortMode == 'mode' ? 'Coaches' : sortMode.charAt(0).toUpperCase() + sortMode.substring(1)}`}

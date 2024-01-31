@@ -11,6 +11,18 @@
   }
 }
 
+@media (max-width: 576px) {
+  .card-group > .card {
+    min-width: 5rem;
+    max-width: 10rem;
+    font-size: 0.8rem;
+  }
+
+  .card-group > .card > .card-body > .card-title {
+    font-size: 1rem;
+  }
+}
+
 .card-body {
   background-color: #333;
   color: #eee;
@@ -27,6 +39,7 @@
   justify-content: flex-end;
 }
 
-.favoriteButton > p {
-  margin-bottom: 0;
+.favoriteButton > img {
+  width: 2.5rem;
+  height: auto;
 }

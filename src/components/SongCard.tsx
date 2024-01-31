@@ -18,9 +18,9 @@ const SongCard = ({ song, saved, onSave }: Props) => {
         <p className='card-text'>Game: {song.game}</p>
         <p className='card-text'>Coaches: {song.mode}</p>
         <p className='card-text'>Artist: {song.artist}</p>
-        <a className='favoriteButton' onClick={() => onSave(song.title)}>
-          <img src={saved ? 'full-heart.svg' : 'empty-heart.svg'} width='40' height='40' role='button'></img>
-        </a>
+        <div className='favoriteButton'>
+          <img onClick={() => onSave(song.title)} src={saved ? 'full-heart.svg' : 'empty-heart.svg'} role='button'></img>
+        </div>
       </div>
     </div>
   );

@@ -19,6 +19,24 @@
       "gameplay": "https://www.youtube.com/watch?v=tbp8Xclin_Q"
     },
     {
+      "title": "A Little Party Never Killed Nobody (All We Got)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Fergie ft. Q-Tip, GoonRock",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/dc/Littleparty_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=AqF1C53Cw80"
+    },
+    {
+      "title": "A Little Party Never Killed Nobody (All We Got) (Twenties Version)",
+      "difficulty": "Hard",
+      "game": "Just Dance 2019",
+      "mode": "Trio",
+      "artist": "Fergie ft. Q-Tip, GoonRock",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3c/Littlepartyalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=FEBJU978e5s"
+    },
+    {
       "title": "all the good girls go to hell",
       "difficulty": "Medium",
       "game": "Just Dance 2021",
@@ -125,6 +143,24 @@
       "artist": "HyunA",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/41/Bubblepop_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=g6cAaT6o5uw"
+    },
+    {
+      "title": "Bum Bum Tam Tam",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "MC Fioti, Future, J Balvin, Stefflon Don, Juan Magan",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/da/Bumbumtamtam_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=MgXWPw6TMP0"
+    },
+    {
+      "title": "Calypso",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Luis Fonsi ft. Stefflon Don",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/af/Calypso_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=JoysU4uEYqg"
     },
     {
       "title": "Can't Take My Eyes Off You",
@@ -235,6 +271,24 @@
       "gameplay": "https://www.youtube.com/watch?v=AaQOJP8KgjU"
     },
     {
+      "title": "DDU-DU DDU-DU",
+      "difficulty": "Hard",
+      "game": "Just Dance 2019",
+      "mode": "Quartet",
+      "artist": "Blackpink",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/79/Ddudu_jd2019_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=5D5qRQgQKjg"
+    },
+    {
+      "title": "Familiar",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Liam Payne & J Balvin",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/76/Familiar_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=D2KfrGiiPTw"
+    },
+    {
       "title": "FANCY",
       "difficulty": "Medium",
       "game": "Just Dance 2020",
@@ -334,6 +388,24 @@
       "gameplay": "https://www.youtube.com/watch?v=0aFCGNBlnZo"
     },
     {
+      "title": "Havana",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Camila Cabello",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cc/Havana_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=UF24gPONlwc"
+    },
+    {
+      "title": "I Feel It Coming",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "The Weeknd ft. Daft Punk",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/39/Ifeelitcoming_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=2MxwFDe6AJE"
+    },
+    {
       "title": "I Will Survive",
       "difficulty": "Easy",
       "game": "Just Dance 2014",
@@ -350,6 +422,15 @@
       "artist": "Blackpink & Selena Gomez",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/10/Sorbet_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=uQnyomIOlvA"
+    },
+    {
+      "title": "I'm Still Standing",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Top Culture",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/29/Imstillstanding_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=eDVoCMpEeEI"
     },
     {
       "title": "Imya 505 (Имя 505)",
@@ -451,6 +532,60 @@
       "gameplay": "https://www.youtube.com/watch?v=tZZU5ZQzxH8"
     },
     {
+      "title": "Mad Love",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "Sean Paul, David Guetta ft. Becky G",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/1a/Madlove_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=idS0Ae17KSE"
+    },
+    {
+      "title": "Mad Love (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "Sean Paul, David Guetta ft. Becky G",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cf/Madlovealt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=Ur3fcGpu-mw"
+    },
+    {
+      "title": "Mama Mia",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "Rick Astley",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5f/Mamamia_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=QO1ZiRja-lc"
+    },
+    {
+      "title": "Mi Mi Mi",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "Hit The Electro Beat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/bb/Mimimi_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=VR8CSSZRKQc"
+    },
+    {
+      "title": "Mi Mi Mi (Sassy Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Quartet",
+      "artist": "Hit The Electro Beat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/71/Mimimialt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=oNlLVkhFKQo"
+    },
+    {
+      "title": "Narco",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Blasterjaxx & Timmy Trumpet",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/ad/Narco_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=0p9gbr8D2Ho"
+    },
+    {
       "title": "Never Gonna Give You Up",
       "difficulty": "Easy",
       "game": "Just Dance 4",
@@ -487,6 +622,51 @@
       "gameplay": "https://www.youtube.com/watch?v=uYAAFTC0Vm4"
     },
     {
+      "title": "New World",
+      "difficulty": "Hard",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Krewella, Yellow Claw ft. Vava",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/ca/Newworld_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=8h1Ox0YmEAc"
+    },
+    {
+      "title": "No Tears Left To Cry",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Ariana Grande",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e0/Notearsleft_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=-z4UO8WzJ4g"
+    },
+    {
+      "title": "OMG",
+      "difficulty": "Hard",
+      "game": "Just Dance 2019",
+      "mode": "Trio",
+      "artist": "Arash ft. Snoop Dogg",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f7/Omg_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=vE1ZYccMxls"
+    },
+    {
+      "title": "OMG (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Arash ft. Snoop Dogg",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/67/Omgalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=9ZBZCeEvjPo"
+    },
+    {
+      "title": "One Kiss",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Calvin Harris & Dua Lipa",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e4/Onekiss_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ihzLRUvLsW8"
+    },
+    {
       "title": "PoPiPo",
       "difficulty": "Easy",
       "game": "Just Dance 2017",
@@ -505,6 +685,15 @@
       "gameplay": "https://www.youtube.com/watch?v=L5I2b9KJ7B8"
     },
     {
+      "title": "Rave in the Grave",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Quartet",
+      "artist": "AronChupa ft. Little Sis Nora",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/07/Ravein_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=oM4plK4U5-E"
+    },
+    {
       "title": "Rockabye",
       "difficulty": "Easy",
       "game": "Just Dance 2018",
@@ -512,6 +701,15 @@
       "artist": "Clean Bandit ft. Sean Paul and Anne-Marie",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/59/Rockabye_jd2018_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=QcSWxf56LBw"
+    },
+    {
+      "title": "Sangria Wine",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Pharrell Williams x Camila Cabello",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fc/Sangriawine_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=sVTirCEau7M"
     },
     {
       "title": "Sax",
@@ -568,6 +766,24 @@
       "gameplay": "https://www.youtube.com/watch?v=cND4i2AQqE4"
     },
     {
+      "title": "Sweet Little Unforgettable Thing",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Bea Miller",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/76/Sweetlittle_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=x9PXvtVxi-0"
+    },
+    {
+      "title": "Sweet Sensation",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Quartet",
+      "artist": "Flo rida",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/07/Sweetsensation_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=og4--S2i814"
+    },
+    {
       "title": "Swish Swish",
       "difficulty": "Medium",
       "game": "Just Dance 2018",
@@ -593,6 +809,51 @@
       "artist": "Michael Gray",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e3/Theweekend_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=DAY-c2J4E7k"
+    },
+    {
+      "title": "TOY",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Netta",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/82/Toy_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=MlYPAEfjKKM"
+    },
+    {
+      "title": "Water Me",
+      "difficulty": "Easy",
+      "game": "Just Dance 2019",
+      "mode": "Solo",
+      "artist": "Lizzo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/ab/Waterme_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ZhT1qdGcMh8"
+    },
+    {
+      "title": "Water Me (Tennis Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "Lizzo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/01/Watermealt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ZhT1qdGcMh8"
+    },
+    {
+      "title": "Where Are You Now",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Trio",
+      "artist": "Lady Leshurr ft. Wiley",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/ce/Whereareyou_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=PulS2EmtPA0"
+    },
+    {
+      "title": "Where Are You Now (Hide-and-Seek Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2019",
+      "mode": "Duet",
+      "artist": "Lady Leshurr ft. Wiley",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a5/Whereareyoualt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=Mpa8DwTZZvo"
     },
     {
       "title": "Without Me",
