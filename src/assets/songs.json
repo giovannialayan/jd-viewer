@@ -244,6 +244,15 @@
       "gameplay": "https://www.youtube.com/watch?v=BZ5C-lq6Kzw"
     },
     {
+      "title": "Disturbia",
+      "difficulty": "Medium",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Rihanna",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d8/Disturbia_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=eidhHak04Vk"
+    },
+    {
       "title": "Don't Let Me down",
       "difficulty": "Easy",
       "game": "Just Dance Unlimited",
@@ -422,6 +431,24 @@
       "artist": "Halloween Thrills",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/69/Ghostinthekeys.png",
       "gameplay": "https://www.youtube.com/watch?v=0aFCGNBlnZo"
+    },
+    {
+      "title": "Good Feeling",
+      "difficulty": "Hard",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Flo Rida",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/23/Goodfeeling_jdnow_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=_wLzgAiqw8I"
+    },
+    {
+      "title": "Good Feeling (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Flo Rida",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2e/Goodfeelingalt_jd4_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=DfSjlcz5I-I"
     },
     {
       "title": "Havana",
@@ -631,6 +658,24 @@
       "gameplay": "https://www.youtube.com/watch?v=oNlLVkhFKQo"
     },
     {
+      "title": "Move Like Jagger",
+      "difficulty": "Medium",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Maroon 5 ft. Christina Aguilera",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/88/Moveslikedlc_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=L9gRWy8PS6E"
+    },
+    {
+      "title": "Mr. Saxobeat",
+      "difficulty": "Easy",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Alexandra Stan",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/ca/Mrsaxobeat_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=il4QoXRCLDI"
+    },
+    {
       "title": "Narco",
       "difficulty": "Medium",
       "game": "Just Dance 2019",
@@ -838,6 +883,15 @@
       "gameplay": "https://www.youtube.com/watch?v=cND4i2AQqE4"
     },
     {
+      "title": "Superstition",
+      "difficulty": "Easy",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Stevie Wonder",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e8/Superstition_jdnow_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=xH17PKMF7Ow"
+    },
+    {
       "title": "Sweet Little Unforgettable Thing",
       "difficulty": "Easy",
       "game": "Just Dance 2019",
@@ -851,7 +905,7 @@
       "difficulty": "Easy",
       "game": "Just Dance 2019",
       "mode": "Quartet",
-      "artist": "Flo rida",
+      "artist": "Flo Rida",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/07/Sweetsensation_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=og4--S2i814"
     },
@@ -926,6 +980,15 @@
       "artist": "Lizzo",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/01/Watermealt_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=ZhT1qdGcMh8"
+    },
+    {
+      "title": "We No Speak Americano",
+      "difficulty": "Hard",
+      "game": "Just Dance 4",
+      "mode": "Solo",
+      "artist": "Hit The Electro Beat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6a/Americano_jd4_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=A6FmTeXaw8w"
     },
     {
       "title": "Where Are You Now",
