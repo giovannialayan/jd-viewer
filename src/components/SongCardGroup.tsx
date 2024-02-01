@@ -16,7 +16,7 @@ function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteData 
       {sortedSongList.map((group, index) => {
         return (
           group.length !== 0 && (
-            <div key={'container-' + index}>
+            <div key={'container-' + index} id={groupNames[index]}>
               <h3 key={'header-' + index} className='cardGroupHeader'>
                 {groupNames[index]}
               </h3>

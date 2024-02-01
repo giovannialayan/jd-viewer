@@ -4,6 +4,7 @@ import SongCardGroup from '../components/SongCardGroup';
 import * as SongSorter from '../SongSorter';
 import Song from '../interfaces/ISong';
 import FavoriteData from '../interfaces/IFavorite';
+import SortBar from '../components/SortBar';
 
 interface Props {
   songs: Song[];
@@ -80,7 +81,15 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
           <Dropdown.Item onClick={() => sortSongs('artist')}>Artist</Dropdown.Item>
         </DropdownButton>
       </div>
-      <SongCardGroup sortedSongList={sortedSongList} groupNames={groupNames} searchResult={searchResult} favoriteData={favoriteData}></SongCardGroup>
+      <div className='listContainer'>
+        <SortBar sections={groupNames}></SortBar>
+        <SongCardGroup
+          sortedSongList={sortedSongList}
+          groupNames={groupNames}
+          searchResult={searchResult}
+          favoriteData={favoriteData}
+        ></SongCardGroup>
+      </div>
     </div>
   );
 }
