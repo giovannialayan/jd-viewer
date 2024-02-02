@@ -145,6 +145,33 @@
       "gameplay": "https://www.youtube.com/watch?v=PkHrtoNSfOI"
     },
     {
+      "title": "BOOMBAYAH (Extreme)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2022",
+      "mode": "Quartet",
+      "artist": "Blackpink",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3b/Boombayah_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=BKXMG9IW4r4"
+    },
+    {
+      "title": "BOOMBAYAH (Alternate Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2022",
+      "mode": "Solo",
+      "artist": "Blackpink",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/29/Boombayahalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=5qido19muag"
+    },
+    {
+      "title": "Boss Witch",
+      "difficulty": "Medium",
+      "game": "Just Dance 2022",
+      "mode": "Solo",
+      "artist": "Skarlett Klaw",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/96/Bosswitch_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=H7qGKlup0HI"
+    },
+    {
       "title": "Bubble Pop!",
       "difficulty": "Medium",
       "game": "Just Dance 2018",
@@ -395,6 +422,15 @@
       "artist": "Cee Lo Green",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/08/ForgetYou_JDU_Cover_Generic.png",
       "gameplay": "https://www.youtube.com/watch?v=qARMT5pm2jk"
+    },
+    {
+      "title": "Freed from Desire",
+      "difficulty": "Medium",
+      "game": "Just Dance 2022",
+      "mode": "Solo",
+      "artist": "Gala",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/25/Freedfromdesire_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=MLgYDZ3fpOY"
     },
     {
       "title": "Gentleman",
@@ -775,6 +811,15 @@
       "gameplay": "https://www.youtube.com/watch?v=gzCeR0oq2B8"
     },
     {
+      "title": "POP/STARS",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2022",
+      "mode": "Quartet",
+      "artist": "K/DA, Madison Beer, & (G)I-DLE ft. Jaira Burns",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d6/Popstars_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=1-s7rtSwtCY"
+    },
+    {
       "title": "PoPiPo",
       "difficulty": "Easy",
       "game": "Just Dance 2017",
@@ -943,7 +988,7 @@
       "mode": "Solo",
       "artist": "Janelle Monáe",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/Tightrope_jdnow_cover_generic_placeholder.jpg",
-      "gameplay": "https://www.youtube.com/watch?v=tTih8r4u1Xk"
+      "gameplay": "https://www.youtube.com/watch?v=-BKJOXw-fG8"
     },
     {
       "title": "TOY",
@@ -961,7 +1006,7 @@
       "mode": "Solo",
       "artist": "The Buggles",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f3/Videokilled_jd3_cover_generic.jpg",
-      "gameplay": "https://www.youtube.com/watch?v=IPcOrWK4Nxk"
+      "gameplay": "https://www.youtube.com/watch?v=PUZSFZ5ReBA"
     },
     {
       "title": "Water Me",

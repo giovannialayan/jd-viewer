@@ -24,3 +24,21 @@
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
 }
+
+.topIcons > * {
+  display: none;
+}
+
+@media (max-width: 576px) {
+  .sideIcons > * {
+    display: none;
+  }
+
+  .topIcons {
+    margin-right: 1rem;
+  }
+
+  .topIcons > * {
+    display: block;
+  }
+}
