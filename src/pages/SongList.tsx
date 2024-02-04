@@ -4,7 +4,7 @@ import SongCardGroup from '../components/SongCardGroup';
 import * as SongSorter from '../SongSorter';
 import Song from '../interfaces/ISong';
 import FavoriteData from '../interfaces/IFavorite';
-import SortBar from '../components/SortBar';
+import '../assets/SongListStyle.css';
 
 interface Props {
   songs: Song[];
@@ -13,6 +13,20 @@ interface Props {
 }
 
 function SongList({ songs, currentPage, favoriteData }: Props) {
+  const [showScrollToTop, setShowScrollToTop] = useState(false);
+
+  useEffect(() => {
+    const shouldShowScrollButton = () => {
+      window.scrollY > 100 ? setShowScrollToTop(true) : setShowScrollToTop(false);
+    };
+
+    window.addEventListener('scroll', shouldShowScrollButton);
+
+    return () => {
+      window.removeEventListener('scroll', shouldShowScrollButton);
+    };
+  }, []);
+
   useEffect(() => {
     setSearchResult('');
   }, [currentPage]);
@@ -20,9 +34,14 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
   const [searchResult, setSearchResult] = useState('');
   const [sortMode, setSortMode] = useState('title');
   const [sortedSongList, setSortedSongList] = useState([songs]);
-  const [groupNames, setGroupNames] = useState(['']);
+  const [groupNames, setGroupNames] = useState([] as string[]);
+  const [currentGroup, setCurrentGroup] = useState('');
 
   const sortSongs = (mode: string) => {
+    if (sortMode === mode) {
+      return;
+    }
+
     setSortMode(mode);
     switch (mode) {
       case 'title':
@@ -30,6 +49,7 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
 
         setSortedSongList(sortedByTitle.songList);
         setGroupNames(sortedByTitle.groupNames);
+        setCurrentGroup('');
         break;
 
       case 'difficulty':
@@ -37,6 +57,7 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
 
         setSortedSongList(sortedByDifficulty.songList);
         setGroupNames(sortedByDifficulty.groupNames);
+        setCurrentGroup(sortedByDifficulty.groupNames[0]);
         break;
 
       case 'game':
@@ -44,6 +65,7 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
 
         setSortedSongList(sortedByGame.songList);
         setGroupNames(sortedByGame.groupNames);
+        setCurrentGroup(sortedByGame.groupNames[0]);
         break;
 
       case 'mode':
@@ -51,6 +73,7 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
 
         setSortedSongList(sortedByMode.songList);
         setGroupNames(sortedByMode.groupNames);
+        setCurrentGroup(sortedByMode.groupNames[0]);
         break;
 
       case 'artist':
@@ -58,13 +81,25 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
 
         setSortedSongList(sortedByArtist.songList);
         setGroupNames(sortedByArtist.groupNames);
+        setCurrentGroup(sortedByArtist.groupNames[0]);
         break;
+    }
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const goToGroup = (groupName: string) => {
+    const targetGroup = document.getElementById(groupName);
+
+    if (targetGroup) {
+      targetGroup.scrollIntoView();
+      setCurrentGroup(groupName);
     }
   };
 
   return (
     <div className='container-fluid'>
-      <div className='songListControls d-flex flex-row justify-content-center'>
+      <div className='songListControls d-flex flex-row justify-content-center bg-dark'>
         <Form>
           <Form.Control type='text' placeholder='Search' className='mr-sm-2' onChange={(e) => setSearchResult(e.currentTarget.value)} />
         </Form>
@@ -78,12 +113,42 @@ function SongList({ songs, currentPage, favoriteData }: Props) {
           <Dropdown.Item onClick={() => sortSongs('difficulty')}>Difficulty</Dropdown.Item>
           <Dropdown.Item onClick={() => sortSongs('game')}>Game</Dropdown.Item>
           <Dropdown.Item onClick={() => sortSongs('mode')}>Coaches</Dropdown.Item>
-          <Dropdown.Item onClick={() => sortSongs('artist')}>Artist</Dropdown.Item>
+          {/* <Dropdown.Item onClick={() => sortSongs('artist')}>Artist</Dropdown.Item> */}
         </DropdownButton>
+        {groupNames.length && (
+          <DropdownButton title={`Go To: ${currentGroup}`} id='navbar-sort-dropdown' variant='secondary' data-bs-theme='dark'>
+            {groupNames.map((groupName) => {
+              return (
+                <Dropdown.Item
+                  key={'goto-' + groupName}
+                  onClick={() => {
+                    goToGroup(groupName);
+                  }}
+                >
+                  {groupName}
+                </Dropdown.Item>
+              );
+            })}
+          </DropdownButton>
+        )}
+        {showScrollToTop && (
+          <div className='d-flex justify-content-center'>
+            <a
+              className='scrollIcon'
+              onClick={() => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+              }}
+              role='button'
+            >
+              <img src='arrow-up-circle-fill.svg'></img>
+            </a>
+          </div>
+        )}
       </div>
       <div className='listContainer'>
-        <SortBar sections={groupNames}></SortBar>
         <SongCardGroup
+          data-spy='scroll'
+          data-target=''
           sortedSongList={sortedSongList}
           groupNames={groupNames}
           searchResult={searchResult}

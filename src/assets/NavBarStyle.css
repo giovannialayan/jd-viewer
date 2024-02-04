@@ -11,10 +11,6 @@
   margin-top: 0.5rem;
 }
 
-.sideIcons > *:last-child {
-  margin-right: 2rem;
-}
-
 .sideIconImage {
   height: 100%;
   width: auto;
@@ -40,5 +36,10 @@
 
   .topIcons > * {
     display: block;
+    margin-right: 1rem;
+  }
+
+  .topIcons > *:last-child {
+    margin-right: 0;
   }
 }

@@ -16,14 +16,15 @@ function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteData 
       {sortedSongList.map((group, index) => {
         return (
           group.length !== 0 && (
-            <div key={'container-' + index} id={groupNames[index]}>
+            <div key={'container-' + index} id={groupNames[index]} className='cardGroupContainer'>
               <h3 key={'header-' + index} className='cardGroupHeader'>
                 {groupNames[index]}
               </h3>
               <CardGroup key={index}>
                 {group.map(
                   (song: Song, index: number) =>
-                    song.title.toLowerCase().includes(searchResult.trim().toLowerCase()) && (
+                    (song.title.toLowerCase().includes(searchResult.trim().toLowerCase()) ||
+                      song.artist.toLowerCase().includes(searchResult.trim().toLowerCase())) && (
                       <SongCard
                         key={index}
                         song={song}
