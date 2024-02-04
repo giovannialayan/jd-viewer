@@ -3,12 +3,12 @@ import Song from './interfaces/ISong';
 import _ from 'lodash';
 
 const gameList = [
-  'Just Dance',
-  'Just Dance 2',
+  // 'Just Dance',
+  // 'Just Dance 2',
   'Just Dance 3',
   'Just Dance 4',
   'Just Dance 2014',
-  'Just Dance 2015',
+  // 'Just Dance 2015',
   'Just Dance 2016',
   'Just Dance 2017',
   'Just Dance 2018',
@@ -16,16 +16,20 @@ const gameList = [
   'Just Dance 2020',
   'Just Dance 2021',
   'Just Dance 2022',
-  'Just Dance 2023',
-  'Just Dance 2024',
+  // 'Just Dance 2023',
+  // 'Just Dance 2024',
   'Just Dance Unlimited',
 ];
 
 const difficultyList = ['Easy', 'Medium', 'Hard', 'Extreme'];
 const modeList = ['Solo', 'Duet', 'Trio', 'Quartet'];
+// const letterList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
+
+//NOTE: consider changing the groupnames so it builds it based on input song list so it returns only groups that exist in the given list
+//      this would fix favorites goto showing unused group names
 
 const sortbyTitle = (songs: Song[]) => {
-  return { songList: [songs], groupNames: [''] };
+  return { songList: [songs], groupNames: [] };
 };
 
 const sortbyDifficulty = (songs: Song[]) => {

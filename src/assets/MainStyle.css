@@ -1,21 +1,7 @@
-.card-group {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-evenly;
-  /* margin: auto; */
-}
-
-.cardGroupHeader {
-  color: #fff;
-  text-align: center;
+.sideBarOpen {
+  margin-left: 5rem;
 }
 
 .randomButton {
   margin-bottom: 3rem;
-}
-
-.songListControls > * {
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
-  margin-bottom: 0.5rem;
 }

@@ -1,0 +1,38 @@
+.card-group {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  /* margin: auto; */
+}
+
+.cardGroupContainer {
+  scroll-margin-top: 3rem;
+}
+
+.cardGroupHeader {
+  color: #fff;
+  text-align: center;
+}
+
+.songListControls {
+  position: sticky;
+  top: 0px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 0.5rem;
+  z-index: 1;
+}
+
+.songListControls > * {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.scrollIcon {
+  margin: 5px 0px;
+}
+
+.scrollIcon > img {
+  height: 100%;
+  width: auto;
+}
