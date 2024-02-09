@@ -10,7 +10,7 @@ const SongCard = ({ song, saved, onSave }: Props) => {
   return (
     <div className='card'>
       <a href={song.gameplay} target='_blank'>
-        <img src={song.thumbnail} className='card-img-top' alt={`${song.title} thumbnail`} />
+        <img src={song.thumbnail} className='card-img-top songThumbnail' alt={`${song.title} thumbnail`} />
       </a>
       <div className='card-body'>
         <h5 className='card-title'>{song.title}</h5>
