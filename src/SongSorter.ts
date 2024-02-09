@@ -3,7 +3,7 @@ import Song from './interfaces/ISong';
 import _ from 'lodash';
 
 const gameList = [
-  // 'Just Dance',
+  'Just Dance',
   // 'Just Dance 2',
   'Just Dance 3',
   'Just Dance 4',
