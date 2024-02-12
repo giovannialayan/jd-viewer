@@ -4,11 +4,11 @@ import _ from 'lodash';
 
 const gameList = [
   'Just Dance',
-  // 'Just Dance 2',
+  'Just Dance 2',
   'Just Dance 3',
   'Just Dance 4',
   'Just Dance 2014',
-  // 'Just Dance 2015',
+  'Just Dance 2015',
   'Just Dance 2016',
   'Just Dance 2017',
   'Just Dance 2018',
