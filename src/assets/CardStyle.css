@@ -43,3 +43,7 @@
   width: 2.5rem;
   height: auto;
 }
+
+.songThumbnail {
+  background-color: #000;
+}
