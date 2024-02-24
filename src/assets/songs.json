@@ -109,6 +109,24 @@
       "gameplay": "https://www.youtube.com/watch?v=FEBJU978e5s"
     },
     {
+      "title": "A Night in the Château de Versailles",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "The Just Dance Orchestra",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9d/Versailles_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=qrt6K6f1YUo"
+    },
+    {
+      "title": "A Queda",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Gloria Groove",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/ca/AQueda_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=UCMKZw1Dwa0"
+    },
+    {
       "title": "A-Punk",
       "difficulty": "Easy",
       "game": "Just Dance 2",
@@ -152,6 +170,15 @@
       "artist": "Harry Styles",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/db/AdoreYou_Cover_Generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=Bn3sKZNKkb4"
+    },
+    {
+      "title": "After Party",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Banx & Ranx ft. Zach Zoya",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/92/Afterparty_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=kTzcCWPRHlw"
     },
     {
       "title": "Ain't My Fault",
@@ -253,6 +280,24 @@
       "gameplay": "https://www.youtube.com/watch?v=NppfjI2igY4"
     },
     {
+      "title": "All You Gotta Do (Is Just Dance) (Alternate Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Duet",
+      "artist": "The Just Dance Band",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/07/AllYouGottaCHN_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=_BCW8QtPOKA"
+    },
+    {
+      "title": "All You Gotta Do (Is Just Dance) (Simple Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance China",
+      "mode": "Solo",
+      "artist": "The Just Dance Band",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4a/MOBAllYouGottaCHN_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=k4LiIWlI0NQ"
+    },
+    {
       "title": "All You Gotta Do (Is Just Dance) (VIPMADE)",
       "difficulty": "Easy",
       "game": "Just Dance Unlimited",
@@ -343,6 +388,15 @@
       "gameplay": "https://www.youtube.com/watch?v=km0qUSWNOLc"
     },
     {
+      "title": "Anything I Do",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "CLiQ ft. Ms Banks and Alika",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c7/Anythingido_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=zhI8oo18EsY"
+    },
+    {
       "title": "Apache (Jump On It)",
       "difficulty": "Hard",
       "game": "Just Dance 3",
@@ -359,6 +413,15 @@
       "artist": "Lenny Kravitz",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/Gonnagomyway_jd3_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=3DdQOB9TXSE"
+    },
+    {
+      "title": "As It Was",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Harry Styles",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d0/Asitwas_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=u7t2Hs5Ny9I"
     },
     {
       "title": "Aserejé (The Ketchup Song)",
@@ -901,6 +964,24 @@
       "gameplay": "https://www.youtube.com/watch?v=H7qGKlup0HI"
     },
     {
+      "title": "Boy With Luv",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "BTS ft. Halsey",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/de/Boywithluvnext_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=dD2qHGCLLtM"
+    },
+    {
+      "title": "Boy With Luv (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "BTS ft. Halsey",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/be/Boywithluvnextalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=Yxg9Tb428GI"
+    },
+    {
       "title": "Boy, You Can Keep It",
       "difficulty": "Medium",
       "game": "Just Dance 2021",
@@ -953,6 +1034,15 @@
       "artist": "Dua Lipa",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c5/Breakmyheart_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=_l8vf28ULOs"
+    },
+    {
+      "title": "Bring Me to Life",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "Evanescence",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9f/Bringmetolife_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=I-CTSV9q7n0"
     },
     {
       "title": "Bubble Pop!",
@@ -1034,6 +1124,24 @@
       "artist": "GTA & Jenn Morel",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e5/BuscandoALT_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=QwYN7c36998"
+    },
+    {
+      "title": "Butter",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "BTS",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a0/Butteralt_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=modFspU8EHw"
+    },
+    {
+      "title": "Butter (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Quartet",
+      "artist": "BTS",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/79/Butter_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=uv_GbMq6O3w"
     },
     {
       "title": "Buttons",
@@ -1126,6 +1234,15 @@
       "gameplay": "https://www.youtube.com/watch?v=hnhV8W1Tys8"
     },
     {
+      "title": "Calm Down",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Rema",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2d/Calmdown_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=M9bee1oTwIU"
+    },
+    {
       "title": "Calypso",
       "difficulty": "Easy",
       "game": "Just Dance 2019",
@@ -1142,6 +1259,15 @@
       "artist": "Luis Fonsi & Stefflon Don",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/67/CalypsoFAN_Cover_Generic.png",
       "gameplay": "https://www.youtube.com/watch?v=582sS85xVnY"
+    },
+    {
+      "title": "Canned Heat",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Jamiroquai",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e7/Cannedheat_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=EGynIdAW0po"
     },
     {
       "title": "Can't Feel My Face",
@@ -1162,6 +1288,24 @@
       "gameplay": "https://www.youtube.com/watch?v=b1CY1Y70SG8"
     },
     {
+      "title": "Can't Stop the Feeling!",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "Justin Timberlake",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/85/Cantstopthefeeling_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=XdCCPEle2II"
+    },
+    {
+      "title": "Can't Stop the Feeling! (Danceverses Prince Version)",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Justin Timberlake",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/82/Cantstopthefeelingalt_cover_updated.png",
+      "gameplay": "https://www.youtube.com/watch?v=0Dq7ScxcUOc"
+    },
+    {
       "title": "Can't Take My Eyes Off You",
       "difficulty": "Easy",
       "game": "Just Dance 4",
@@ -1178,6 +1322,15 @@
       "artist": "Boys Town Gang",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7b/Canttakemyeyesalt.jpg",
       "gameplay": "https://www.youtube.com/watch?v=GFHgy3nrOOE"
+    },
+    {
+      "title": "Can't Tame Her",
+      "difficulty": "Hard",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Zara Larsson",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e1/Canttameher_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=4SS7G89LGT8"
     },
     {
       "title": "Carmen (Ouverture)",
@@ -1214,6 +1367,15 @@
       "artist": "El Chombo",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/18/Chacarron_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=NWmdEn0t9eI"
+    },
+    {
+      "title": "Chaise Longue",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Wet Leg",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e2/ChaiseLongue_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=4aBaHVZE05I"
     },
     {
       "title": "Chandelier",
@@ -1279,6 +1441,15 @@
       "gameplay": "https://www.youtube.com/watch?v=5byW_4loe_4"
     },
     {
+      "title": "Chick Chick (小鸡小鸡)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Solo",
+      "artist": "Wang Rong Rollin",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/92/ChickChick_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=-rXy99vYG2k"
+    },
+    {
       "title": "Chicken Payback",
       "difficulty": "Easy",
       "game": "Just Dance 2",
@@ -1340,6 +1511,15 @@
       "artist": "Britney Spears",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/30/Circusalt_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=7vnyxSX4qxA"
+    },
+    {
+      "title": "Clown (小丑)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "Wilber Pan",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3f/Jdcclown_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=fZK4Cbscho0"
     },
     {
       "title": "Cola Song",
@@ -1405,6 +1585,15 @@
       "gameplay": "https://www.youtube.com/watch?v=93bIgp5lVM8"
     },
     {
+      "title": "Coolest Ethnic (最炫民族风)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Solo",
+      "artist": "Phoenix Legend",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f5/CoolestEthnic_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=5P0fd-UK56M"
+    },
+    {
       "title": "Copacabana",
       "difficulty": "Easy",
       "game": "Just Dance 2016",
@@ -1439,6 +1628,15 @@
       "artist": "Rednex",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b6/Cotton_jd1_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=CicMt6tQqEQ"
+    },
+    {
+      "title": "Cradles",
+      "difficulty": "Hard",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Sub Urban",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f8/Cradles_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=O2CUmE4QF5Y"
     },
     {
       "title": "Crayon",
@@ -1511,6 +1709,24 @@
       "artist": "V V Brown",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a8/Cryingblood_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=JHjWJm1bhcQ"
+    },
+    {
+      "title": "Cure For Me",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "AURORA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2e/CureForMeALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=vrcjXbPE5TU"
+    },
+    {
+      "title": "Cure For Me (Paper Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "AURORA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Cureforme_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=TJpv5ZILTII"
     },
     {
       "title": "Da Funk",
@@ -1603,6 +1819,15 @@
       "gameplay": "https://www.youtube.com/watch?v=bI7QZHzva-E"
     },
     {
+      "title": "Dancing Diva (舞娘)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Solo",
+      "artist": "Jolin Tsai (The Girly Team)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e6/Dancingdivachn_jd2015c_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=wTpKXfJcKlc"
+    },
+    {
       "title": "Dancing Queen",
       "difficulty": "Medium",
       "game": "Just Dance Unlimited",
@@ -1610,6 +1835,24 @@
       "artist": "ABBA",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4e/Dancingqueen_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=OQD75k0fHog"
+    },
+    {
+      "title": "Danger! High Voltage",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "Electric Six",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9f/HighVoltageALT_Cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=JGfYow_P-Ko"
+    },
+    {
+      "title": "Danger! High Voltage 16-Bit Version",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Electric Six",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0f/Highvoltage_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=EqTq138KbC8"
     },
     {
       "title": "Dans van de Farao",
@@ -1628,6 +1871,15 @@
       "artist": "Gorillaz",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/47/Dare_jd1_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=a6VZi8DR3MA"
+    },
+    {
+      "title": "Dare to Live (梦想入口)",
+      "difficulty": "Hard",
+      "game": "Just Dance Unlimited China",
+      "mode": "Quartet",
+      "artist": "Trady",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a3/Daretolive_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=6WcN70UhUZQ"
     },
     {
       "title": "Dark Horse",
@@ -1664,6 +1916,15 @@
       "artist": "Luis Fonsi ft. Daddy Yankee",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/00/Despacitoalt_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=BZ5C-lq6Kzw"
+    },
+    {
+      "title": "Despechá",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "ROSALÍA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4a/Despecha_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=3nMuxUibjOc"
     },
     {
       "title": "Dharma",
@@ -1729,6 +1990,15 @@
       "gameplay": "https://www.youtube.com/watch?v=sghL7w5QL5w"
     },
     {
+      "title": "Disco Inferno",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "The Trammps",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3e/Discoinferno_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=T2Fyd-BjZl4"
+    },
+    {
       "title": "Disturbia",
       "difficulty": "Medium",
       "game": "Just Dance 4",
@@ -1772,6 +2042,24 @@
       "artist": "Mabel",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/bd/Dontcall_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=e2MqFbJ8irc"
+    },
+    {
+      "title": "Don't Cha",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "The Pussycat Dolls ft. Busta Rhymes",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c4/DontCha_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=t8ZMifqfeBs"
+    },
+    {
+      "title": "Don't Cha (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "The Pussycat Dolls ft. Busta Rhymes",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/99/DontChaALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=AEocwBtpiG8"
     },
     {
       "title": "Don't Go Yet",
@@ -1882,6 +2170,24 @@
       "gameplay": "https://www.youtube.com/watch?v=oEldFLrZ7_8"
     },
     {
+      "title": "Drinking Song (酒歌)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "Hanggai",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a7/Jdcdrinkingsong_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=8QH1lf11G3I"
+    },
+    {
+      "title": "Drivers License",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Olivia Rodrigo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/dd/Driverslicense_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=u14x4j5dM-8"
+    },
+    {
       "title": "Drop the Mambo",
       "difficulty": "Hard",
       "game": "Just Dance 2016",
@@ -1907,6 +2213,24 @@
       "artist": "Taio Cruz",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/76/Dynamitequat_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=TRQaBXBaBk8"
+    },
+    {
+      "title": "Dynamite",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "BTS",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fb/Dynamitebts_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=CM7ZSzCkx0Y"
+    },
+    {
+      "title": "Dynamite (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Quartet",
+      "artist": "BTS",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7b/Dynamitebtsalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=KH8XwGXivQU"
     },
     {
       "title": "El Tiki",
@@ -2044,6 +2368,15 @@
       "gameplay": "https://www.youtube.com/watch?v=E6570TNJB90"
     },
     {
+      "title": "Farfalle",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Sangiovanni",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4a/Farfalle_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=nYa7we8nwLE"
+    },
+    {
       "title": "Fatima",
       "difficulty": "Easy",
       "game": "Just Dance 2015",
@@ -2170,6 +2503,24 @@
       "gameplay": "https://www.youtube.com/watch?v=NLyGWLw2blc"
     },
     {
+      "title": "Flowers",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Miley Cyrus",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3b/Flowers_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=NSn0Lvusw0A"
+    },
+    {
+      "title": "Flowers (Fitness Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Miley Cyrus",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fe/Flowersalt_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=j4TIKs6Vv_8"
+    },
+    {
       "title": "Follow the White Rabbit",
       "difficulty": "Medium",
       "game": "Just Dance Unlimited",
@@ -2287,6 +2638,15 @@
       "gameplay": "https://www.youtube.com/watch?v=qeQbamk7aBk"
     },
     {
+      "title": "Gee",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "Girls' Generation",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ed/Jdcgee_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=R6NEqP3FXTY"
+    },
+    {
       "title": "Gentleman",
       "difficulty": "Medium",
       "game": "Just Dance 2014",
@@ -2386,13 +2746,31 @@
       "gameplay": "https://www.youtube.com/watch?v=8srbPuqIV7U"
     },
     {
+      "title": "Gimme More",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Britney Spears",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/92/GimmeMore_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=4QFt8ppXzcM"
+    },
+    {
+      "title": "Gimme More (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Britney Spears",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/18/GimmeMoreALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=jtKHOieZK5U"
+    },
+    {
       "title": "GIRL LIKE ME",
       "difficulty": "Hard",
       "game": "Just Dance 2022",
       "mode": "Solo",
       "artist": "Black Eyed Peas & Shakira",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d5/Girllikeme_cover_generic.png",
-      "gameplay": "https://www.youtube.com/watch?v=oaacNyOQ8t8"
+      "gameplay": "https://www.youtube.com/watch?v=fKj09w8IbmM"
     },
     {
       "title": "GIRL LIKE ME (Extreme Version)",
@@ -2458,6 +2836,15 @@
       "gameplay": "https://www.youtube.com/watch?v=ICmABsF-qS0"
     },
     {
+      "title": "Gokuraku Joudo (极乐淨土)",
+      "difficulty": "Extreme",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "GARNiDELiA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f0/GokurakuJodo_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=M8A3FDxkfx8"
+    },
+    {
       "title": "Gonna Make You Sweat (Everybody Dance Now)",
       "difficulty": "Medium",
       "game": "Just Dance 3",
@@ -2501,6 +2888,24 @@
       "artist": "Carrie Underwood",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/64/Goodgirl_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=TFOft8T1JdA"
+    },
+    {
+      "title": "Good Ones",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Charli XCX",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c7/Goodones_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=sTB3CLHS1_Y"
+    },
+    {
+      "title": "Gorgeous Diva (华丽天后)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Solo",
+      "artist": "Monki",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2a/JDCBadGirl_cover_jdc.png",
+      "gameplay": "https://www.youtube.com/watch?v=mU2KYyDG00g"
     },
     {
       "title": "Got That",
@@ -2573,6 +2978,15 @@
       "artist": "Billie Eilish",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9a/Happierthanever_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=jlE6HJADvws"
+    },
+    {
+      "title": "Happiness To You (恭喜恭喜)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "Chen Gexin (The Just Dance Band)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b0/GongXiGongXi_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=5OqXHGPG-F4"
     },
     {
       "title": "Happy",
@@ -2654,6 +3068,15 @@
       "artist": "Dreamers",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/05/Heatseeker_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=ZoHhA86EN2c"
+    },
+    {
+      "title": "Heat Waves",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Glass Animals",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6e/Heatwaves_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=7iCHo2e7PA0"
     },
     {
       "title": "Here Comes the Hotstepper",
@@ -2809,6 +3232,15 @@
       "gameplay": "https://www.youtube.com/watch?v=nzDIIUkIzLM"
     },
     {
+      "title": "Hot Pot Cool (火锅爽)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Trio",
+      "artist": "Aya",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/8c/Jdchotpot_jd2020c_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=CpoxI_ZCENg"
+    },
+    {
       "title": "Hot Stuff",
       "difficulty": "Medium",
       "game": "Just Dance 2",
@@ -2836,6 +3268,24 @@
       "gameplay": "https://www.youtube.com/watch?v=DVwsj0_WmNw"
     },
     {
+      "title": "How You Like That",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "BLACKPINK",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/84/Howyoulikethatalt_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=doJaZYev4_o"
+    },
+    {
+      "title": "How You Like That (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Quartet",
+      "artist": "BLACKPINK",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f8/HowYouLikeThat_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=EO1SsYdEPtM"
+    },
+    {
       "title": "Human",
       "difficulty": "Hard",
       "game": "Just Dance 2022",
@@ -2861,6 +3311,15 @@
       "artist": "Dizzee Rascal & Calvin Harris",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c0/Hype_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=BujgWbrVHNc"
+    },
+    {
+      "title": "I Am My Own Muse",
+      "difficulty": "Hard",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Fall Out Boy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0a/MyOwnMuse_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=SjzL6RmWpsY"
     },
     {
       "title": "I Am the Best",
@@ -2953,6 +3412,15 @@
       "gameplay": "https://www.youtube.com/watch?v=m3402DZvbVU"
     },
     {
+      "title": "I Knew You Were Trouble",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Taylor Swift",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c2/Iknewyouweretrouble_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=w6Lmd--74ZE"
+    },
+    {
       "title": "I Like It",
       "difficulty": "Medium",
       "game": "Just Dance 2020",
@@ -2996,6 +3464,24 @@
       "artist": "Joan Jett & The Blackhearts (Fast Forward Highway)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cf/Iloverock.png",
       "gameplay": "https://www.youtube.com/watch?v=hfLn8za1VvE"
+    },
+    {
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Whitney Houston",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/24/IWannaDance_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Omfnvkvv9jA"
+    },
+    {
+      "title": "I Wanna Dance with Somebody (Who Loves Me) (Extravaganza Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Whitney Houston",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0f/IWannaDanceALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=rhfw3f01VAY"
     },
     {
       "title": "I Want You Back",
@@ -3061,6 +3547,24 @@
       "gameplay": "https://www.youtube.com/watch?v=AWO_SIlz2u8"
     },
     {
+      "title": "If You Wanna Party",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "The Just Dancers",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6f/PARTY_Cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=w0mtnuf78NQ"
+    },
+    {
+      "title": "If You Wanna Party (VIP Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "The Just Dancers",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d7/Partyvip_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=FhmtmkGdpyw"
+    },
+    {
       "title": "Iko Iko",
       "difficulty": "Easy",
       "game": "Just Dance 2",
@@ -3077,6 +3581,33 @@
       "artist": "AronChupa",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/83/Albatraoz_jd2016_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=4lFcvVNawxA"
+    },
+    {
+      "title": "I'm Good (Blue)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "David Guetta & Bebe Rexha",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/8c/ImGood_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=OiR1UaMrjsc"
+    },
+    {
+      "title": "I'm Good (Blue) (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "David Guetta & Bebe Rexha",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/af/ImGoodALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=keglmUPt8KI"
+    },
+    {
+      "title": "I'm Not Here to Make Friends",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "Sam Smith",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/10/MakeFriends_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Wc_SWbP2T0Y"
     },
     {
       "title": "I'm Outta Love",
@@ -3140,6 +3671,15 @@
       "artist": "The Just Dance Orchestra",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/bd/Cancan_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=hh70BljFYgM"
+    },
+    {
+      "title": "Infernal Galop (Can-Can) (VIP Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance Unlimited China",
+      "mode": "Solo",
+      "artist": "Jacques Offenbach (The Just Dance Orchestra)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0f/Jdccancan_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=QQC5wjOs-Wo"
     },
     {
       "title": "Instruction",
@@ -3214,6 +3754,15 @@
       "gameplay": "https://www.youtube.com/watch?v=6tNXMXAZosc"
     },
     {
+      "title": "It's My Orbit (是我的益达)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "Zhang Yanqi, Veegee Xu Ruoqiao, and Zhao Rui",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/85/Jdcghoul_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=1V18iZPKWIA"
+    },
+    {
       "title": "It's Not Unusual",
       "difficulty": "Easy",
       "game": "Just Dance 2",
@@ -3230,6 +3779,15 @@
       "artist": "The Weather Girls",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2a/Itsrainingmen_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=eLNjqke3gWk"
+    },
+    {
+      "title": "It's the Most Wonderful Time of the Year",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "Andy Williams",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/62/Wonderfultime_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=OI9Ipb4xClc"
     },
     {
       "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
@@ -3284,6 +3842,15 @@
       "artist": "Konshens",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b8/JamaicanDance_jd3_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=XMmuSDCIRoQ"
+    },
+    {
+      "title": "Jamais Lâcher",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Michou",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c1/Jamais_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=OHdhVjwbqVg"
     },
     {
       "title": "Jambo Mambo",
@@ -3418,7 +3985,7 @@
       "mode": "Trio",
       "artist": "Lizzo",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f4/Juicealt_cover_generic.jpg",
-      "gameplay": "https://www.youtube.com/watch?v=64fFxqifUsM"
+      "gameplay": "https://www.youtube.com/watch?v=UbGa1v0jiIU"
     },
     {
       "title": "Juju On That Beat",
@@ -3511,6 +4078,15 @@
       "gameplay": "https://www.youtube.com/watch?v=VhoOWPXdiLo"
     },
     {
+      "title": "Karaoke Forever - Future Underworld Mix (卡拉永远OK)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Solo",
+      "artist": "Alan Tam (谭咏麟)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9f/Karaokeforeverchn_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=oorjfxbmKSE"
+    },
+    {
       "title": "Katti Kalandal",
       "difficulty": "Medium",
       "game": "Just Dance 2",
@@ -3563,6 +4139,15 @@
       "artist": "Kim Wilde",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a2/Kids_jd1_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=YZ2KsIJUj4s"
+    },
+    {
+      "title": "Kill Bill",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "SZA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/38/KillBill_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=qwbdXAABU3o"
     },
     {
       "title": "Kill This Love",
@@ -3754,6 +4339,15 @@
       "gameplay": "https://www.youtube.com/watch?v=Ro0v3R5GJ_c"
     },
     {
+      "title": "Leg Song (腿之歌)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Solo",
+      "artist": "LULU",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/67/Legsongchn_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=kc0aedl3KXk"
+    },
+    {
       "title": "Leila",
       "difficulty": "Medium",
       "game": "Just Dance 2017",
@@ -3797,6 +4391,15 @@
       "artist": "Earth, Wind & Fire (Equinox Stars)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/34/Letsgroove_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=gpT7kYP-7Ts"
+    },
+    {
+      "title": "Let's Party (飞艇派对)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Quartet",
+      "artist": "Wu Xuanyi and Game for Peace",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4a/Letsparty_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=UiOE13wxBrc"
     },
     {
       "title": "Level Up",
@@ -3853,6 +4456,15 @@
       "gameplay": "https://www.youtube.com/watch?v=Fh4a7Xz0ku8"
     },
     {
+      "title": "Little Apple (小苹果)",
+      "difficulty": "Medium",
+      "game": "Just Dance China",
+      "mode": "Duet",
+      "artist": "Chopstick Brothers",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/19/LittleAppleCHN_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=ClIiqjSTZ-4"
+    },
+    {
       "title": "Little Swing",
       "difficulty": "Medium",
       "game": "Just Dance 2017",
@@ -3869,6 +4481,15 @@
       "artist": "Ricky Martin",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5d/Livinlavidaloca_jd4_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=C-fR7_6p6O8"
+    },
+    {
+      "title": "Locked Out of Heaven",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Bruno Mars",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2a/Lockedout_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=mF3uPAH3bEQ"
     },
     {
       "title": "Lollipop",
@@ -3907,6 +4528,15 @@
       "gameplay": "https://www.youtube.com/watch?v=GEu22aoS8Zs"
     },
     {
+      "title": "Love Me Land",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Zara Larsson",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/77/Lovemeland_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=xOp1KS3Wvk0"
+    },
+    {
       "title": "Love Story (Taylor's Version)",
       "difficulty": "Easy",
       "game": "Just Dance 2022",
@@ -3932,6 +4562,15 @@
       "artist": "Selena Gomez and the Scene",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/08/Loveyoulike_jd4_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=FlckSvDM4GY"
+    },
+    {
+      "title": "Love (爱)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Duet",
+      "artist": "The Little Tigers (The Just Dance Band)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7e/Jdclove_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=nuC51hWRLl0"
     },
     {
       "title": "Lump",
@@ -3997,6 +4636,15 @@
       "gameplay": "https://www.youtube.com/watch?v=9slnaiWfh0c"
     },
     {
+      "title": "Magic",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Kylie Minogue",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/18/Magic_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=SrZ-GRwglm8"
+    },
+    {
       "title": "Magic Halloween",
       "difficulty": "Medium",
       "game": "Just Dance 2018",
@@ -4024,6 +4672,15 @@
       "gameplay": "https://www.youtube.com/watch?v=7e6o4uF7UUw"
     },
     {
+      "title": "Majesty",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "Apashe ft. Wasiu",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/22/Majesty_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=AE3bfno_Vwk"
+    },
+    {
       "title": "Make It Jingle",
       "difficulty": "Easy",
       "game": "Just Dance 2018",
@@ -4049,6 +4706,15 @@
       "artist": "Bunny Beatz",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c8/MakeTheParty_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=Kgn9dbBxWRE"
+    },
+    {
+      "title": "Makeba",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "Jain",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fc/Makeba_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=fz-Hd1Ont24"
     },
     {
       "title": "Malibu",
@@ -4213,6 +4879,15 @@
       "gameplay": "https://www.youtube.com/watch?v=oNlLVkhFKQo"
     },
     {
+      "title": "Million Dollar Baby",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Ava Max",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/99/Milliondollarbaby_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=8j7v-3xR574"
+    },
+    {
       "title": "Milosc W Zakopanem",
       "difficulty": "Medium",
       "game": "Just Dance 2019",
@@ -4283,6 +4958,24 @@
       "artist": "24kGoldn ft. Iann Dior",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/29/Moodalt_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=TTtqaaneKb0"
+    },
+    {
+      "title": "MORE",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Quartet",
+      "artist": "K/DA ft. Madison Beer, (G)-IDLE, Lexie Liu, Seraphine, Jaira Burns",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0b/More_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=FcTmCXwTHQ8"
+    },
+    {
+      "title": "MORE (Seraphine Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "K/DA ft. Madison Beer, (G)-IDLE, Lexie Liu, Seraphine, Jaira Burns",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/25/Morealt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=tSmz5ys773w"
     },
     {
       "title": "Move Like Jagger",
@@ -4357,6 +5050,15 @@
       "gameplay": "https://www.youtube.com/watch?v=G9YxkKX2oUo"
     },
     {
+      "title": "My Name Is",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Quartet",
+      "artist": "D Billions",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/25/MyNameIs_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=EsjMoA1ajNQ"
+    },
+    {
       "title": "My New Swag (我的新衣)",
       "difficulty": "Hard",
       "game": "Just Dance 2020",
@@ -4420,6 +5122,15 @@
       "gameplay": "https://www.youtube.com/watch?v=Q7YFao1Ek0E"
     },
     {
+      "title": "Never Be Like You",
+      "difficulty": "Hard",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Flume ft. Kai",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/38/NeverBe_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=MCcM012rjss"
+    },
+    {
       "title": "Never Can Say Goodbye",
       "difficulty": "Easy",
       "game": "Just Dance 2015",
@@ -4435,7 +5146,7 @@
       "mode": "Solo",
       "artist": "Rick Astley",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7d/NeverGonna_JDU_Cover_Generic.png",
-      "gameplay": "https://www.youtube.com/watch?v=SPrfG3C_Xns"
+      "gameplay": "https://www.youtube.com/watch?v=5r3745QD4-w"
     },
     {
       "title": "New Face",
@@ -4582,6 +5293,15 @@
       "gameplay": "https://www.youtube.com/watch?v=EIL_QOVGOeU"
     },
     {
+      "title": "Numb",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Linkin Park",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cf/Numb_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=gV-ps9GZXqc"
+    },
+    {
       "title": "Obsesión",
       "difficulty": "Medium",
       "game": "Just Dance 2019",
@@ -4708,6 +5428,15 @@
       "gameplay": "https://www.youtube.com/watch?v=69fPkEIVzDY"
     },
     {
+      "title": "Otonablue",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Quartet",
+      "artist": "Atarashii Gakko!",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6e/Otonablue_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=JP9_-SL9sD4"
+    },
+    {
       "title": "Pac-Man",
       "difficulty": "Easy",
       "game": "Just Dance 2019",
@@ -4753,6 +5482,15 @@
       "gameplay": "https://www.youtube.com/watch?v=QjCOU0_m9Xg"
     },
     {
+      "title": "Paramount Swing (百乐门Swing)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "Shanghai Restoration Project ft. Zhang Le",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/ce/BaiLeMenSwing_Cover_Generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=Wer067cikuQ"
+    },
+    {
       "title": "Party Rock Anthem",
       "difficulty": "Medium",
       "game": "Just Dance 3",
@@ -4780,6 +5518,42 @@
       "gameplay": "https://www.youtube.com/watch?v=SrKUsNWXZ2Y"
     },
     {
+      "title": "Penguin's Game (兔子舞)",
+      "difficulty": "Easy",
+      "game": "Just Dance Unlimited China",
+      "mode": "Solo",
+      "artist": "Gelato",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/65/Penguinsgame_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=wpGrb1w0yZc"
+    },
+    {
+      "title": "Penguin's Game (兔子舞) (Kid's Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance Unlimited China",
+      "mode": "Solo",
+      "artist": "Gelato",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/38/Kidspenguinsgame_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=Q3gF41bGvrc"
+    },
+    {
+      "title": "Physical",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Dua Lipa",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4b/Physical_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=OXhLejeiyOg"
+    },
+    {
+      "title": "Physical (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Dua Lipa",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5d/Physicalalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=o6J2mqlf3mk"
+    },
+    {
       "title": "Pixie Land",
       "difficulty": "Medium",
       "game": "Just Dance 2018",
@@ -4787,6 +5561,15 @@
       "artist": "The Sunlight Shakers",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/08/Pixielandkids_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=4XRH0cm9-0Y"
+    },
+    {
+      "title": "Playground",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Bea Miller",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/20/Playground_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=zw6dPnLD-vs"
     },
     {
       "title": "Policeman",
@@ -4813,7 +5596,7 @@
       "mode": "Quartet",
       "artist": "K/DA, Madison Beer, & (G)I-DLE ft. Jaira Burns",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d6/Popstars_cover_generic.png",
-      "gameplay": "https://www.youtube.com/watch?v=1-s7rtSwtCY"
+      "gameplay": "https://www.youtube.com/watch?v=7CfXBODoJ14"
     },
     {
       "title": "PoPiPo",
@@ -4854,7 +5637,7 @@
     {
       "title": "Princess (王妃)",
       "difficulty": "Medium",
-      "game": "Just Dance 2022",
+      "game": "Just Dance China",
       "mode": "Solo",
       "artist": "Jam Hsiao",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/8b/Princess_cover_generic.png",
@@ -4895,6 +5678,24 @@
       "artist": "Ike and Tina Turner",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b8/ProudMary_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=qWsApA8Wqo8"
+    },
+    {
+      "title": "Psycho",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Red Velvet",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/22/Psychoalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=gujS1FIJZ_k"
+    },
+    {
+      "title": "Psycho (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "Red Velvet",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a2/Psycho_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=NzGqLgMp27Q"
     },
     {
       "title": "Pump It",
@@ -4969,6 +5770,15 @@
       "gameplay": "https://www.youtube.com/watch?v=n5POQlbJcoU"
     },
     {
+      "title": "Radioactive",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "Imagine Dragons",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/20/Radioactive_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=OvaBWw3fcZ8"
+    },
+    {
       "title": "Rain On Me",
       "difficulty": "Medium",
       "game": "Just Dance 2021",
@@ -4996,13 +5806,22 @@
       "gameplay": "https://www.youtube.com/watch?v=fis-7i30QwQ"
     },
     {
-      "title": "Rainbow Beats",
+      "title": "Rainbow Beats (彩虹节拍)",
       "difficulty": "Hard",
-      "game": "Just Dance Unlimited",
+      "game": "Just Dance China",
       "mode": "Duet",
       "artist": "Yi Yan/Zhao Fang Jing/Suika Kune/Feizaojun",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/96/Rainbowrhythm_jd2020c_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=L5I2b9KJ7B8"
+    },
+    {
+      "title": "Rapper's Delight",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "The Sugarhill Gang (Groove Century)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/59/Rappersdelight_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Ys_YAKCqYCo"
     },
     {
       "title": "Rare",
@@ -5030,6 +5849,15 @@
       "artist": "Boney M.",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/52/Rasputin_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=NJh5idlanrc"
+    },
+    {
+      "title": "Rather Be",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Clean Bandit ft. Jess Glynne",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/00/Ratherbe_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=wSwRl6e-aGw"
     },
     {
       "title": "Rave in the Grave",
@@ -5167,6 +5995,15 @@
       "gameplay": "https://www.youtube.com/watch?v=mU4U0bYHo-Y"
     },
     {
+      "title": "Sail",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "AWOLNATION",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/21/Sail_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=_fSwHaGGtQw"
+    },
+    {
       "title": "Samba de Janeiro",
       "difficulty": "Easy",
       "game": "Just Dance 2021",
@@ -5239,6 +6076,24 @@
       "gameplay": "https://www.youtube.com/watch?v=jpAFP5yBS3Y"
     },
     {
+      "title": "Say My Name",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "ATEEZ",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d2/SayMyNameALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=E0ozoH59MUc"
+    },
+    {
+      "title": "Say My Name (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "ATEEZ",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0c/Saymyname_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=X4GZxvqeJE0"
+    },
+    {
       "title": "Say So",
       "difficulty": "Easy",
       "game": "Just Dance 2021",
@@ -5284,6 +6139,15 @@
       "gameplay": "https://www.youtube.com/watch?v=azDb5cqTyT4"
     },
     {
+      "title": "Señorita (VIP Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Medium",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/Jdcsenorita_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=lllT0rIiims"
+    },
+    {
       "title": "September",
       "difficulty": "Medium",
       "game": "Just Dance 2017",
@@ -5300,6 +6164,15 @@
       "artist": "Earth, Wind & Fire",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/8d/SeptemberALT_Squ.jpg",
       "gameplay": "https://www.youtube.com/watch?v=1VS9ZKvvtn8"
+    },
+    {
+      "title": "Seven",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Jung Kook ft. Latto",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/64/Seven_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=jmZm1O-AsO8"
     },
     {
       "title": "Shaky Shaky",
@@ -5336,6 +6209,15 @@
       "artist": "Tommy Sparks",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/67/Gotmedancing_jd3_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=NOsky4f5cG0"
+    },
+    {
+      "title": "Shine a Little Love",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Electric Light Orchestra (The Sunlight Shakers)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/74/Shinealittle_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=-ZM5ffqi_yo"
     },
     {
       "title": "Shinobi Cat",
@@ -5399,6 +6281,15 @@
       "artist": "Beyoncé",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/00/Singleladies_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=7j_eNHiBUpU"
+    },
+    {
+      "title": "Sissy That Walk",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "RuPaul",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9a/Sissythatwalk_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=z9cUbcci-Rc"
     },
     {
       "title": "Skibidi",
@@ -5608,6 +6499,33 @@
       "gameplay": "https://www.youtube.com/watch?v=z0um6TJWR_I"
     },
     {
+      "title": "Stay",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "The Kid Laroi and Justin Bieber",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/34/Stay_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=QJHzB6ObsFQ"
+    },
+    {
+      "title": "Stay (Inflatable Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "The Kid Laroi and Justin Bieber",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/14/Stayalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=iTPN2mXglxk"
+    },
+    {
+      "title": "Stay (VIP Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "The Kid Laroi and Justin Bieber",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/85/Stayvip_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=Ss01VLOp2HY"
+    },
+    {
       "title": "Step by Step",
       "difficulty": "Medium",
       "game": "Just Dance",
@@ -5633,6 +6551,15 @@
       "artist": "Royal Republic",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/1e/Stopmovin_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=7tW476iORlo"
+    },
+    {
+      "title": "Stronger (What Doesn't Kill You)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Kelly Clarkson",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/86/Stronger_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=yXQ6MN7fmeU"
     },
     {
       "title": "Stuck On A Feeling",
@@ -5752,6 +6679,24 @@
       "gameplay": "https://www.youtube.com/watch?v=yr_OEqx_rsQ"
     },
     {
+      "title": "Survivor",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "Destiny's Child",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/23/Survivor_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=chgIX4Zoczg"
+    },
+    {
+      "title": "Survivor (Fitness Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Destiny's Child",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/20/SurvivorALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=eA_31z_Fpcg"
+    },
+    {
       "title": "Sushi",
       "difficulty": "Easy",
       "game": "Just Dance 2020",
@@ -5770,6 +6715,15 @@
       "gameplay": "https://www.youtube.com/watch?v=Lx4lYOtu0kg"
     },
     {
+      "title": "Swan Lake",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Pyotr Ilyich Tchaikovsky (The Just Dance Orchestra)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/46/SwanLakeRemix_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=t4tEYWiduE0"
+    },
+    {
       "title": "Sway (Quién Será)",
       "difficulty": "Medium",
       "game": "Just Dance 2",
@@ -5777,6 +6731,15 @@
       "artist": "Michael Bublé (Marine Band)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e0/Sway_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=DU4fgpphU_4"
+    },
+    {
+      "title": "Sweet but Psycho",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Ava Max",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/52/Sweetbutpsycho_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=5Y9Y53xxU_g"
     },
     {
       "title": "Sweet Little Unforgettable Thing",
@@ -5822,6 +6785,15 @@
       "artist": "The Rolling Stones",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/19/SympathyDevil_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=L_hJoo9cdg4"
+    },
+    {
+      "title": "Tainted Love",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Quartet",
+      "artist": "Gloria Jones (The Just Dancers)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/bd/TaintedLove_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=so7mKwYVvT4"
     },
     {
       "title": "Take Me Out",
@@ -5948,6 +6920,24 @@
       "artist": "Omer Adam ft. Arisa",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6b/Telaviv_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=AFKFhhuk9FU"
+    },
+    {
+      "title": "Telephone",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Lady Gaga ft. Beyoncé",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2f/Telephone_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=04G8ZrjjVWs"
+    },
+    {
+      "title": "Telephone (Runaway Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "Lady Gaga ft. Beyoncé",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/bc/Telephonealt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=HR41qNNLZUk"
     },
     {
       "title": "Temperature",
@@ -6139,6 +7129,15 @@
       "gameplay": "https://www.youtube.com/watch?v=1eIzSEgN8us"
     },
     {
+      "title": "Therefore I Am",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Billie Eilish",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/06/Thereforeiam_score_card_cover.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=qBBMbzsDU_g"
+    },
+    {
       "title": "These Boots Are Made For Walking",
       "difficulty": "Easy",
       "game": "Just Dance 2016",
@@ -6200,6 +7199,15 @@
       "artist": "Katy Perry",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/df/Thisishowfan_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=4OEWWQwEtX0"
+    },
+    {
+      "title": "This Wish",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Ariana DeBose",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7c/Origin_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=rxNqBJQ9EI0"
     },
     {
       "title": "Thumbs",
@@ -6283,6 +7291,33 @@
       "gameplay": "https://www.youtube.com/watch?v=ofPv_33--GU"
     },
     {
+      "title": "Tití Me Preguntó",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Trio",
+      "artist": "Bad Bunny",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/61/Titimepregunto_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=w2rK1KUWdNo"
+    },
+    {
+      "title": "Tití Me Preguntó (Barbecue Version)",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Bad Bunny",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c0/Titimepreguntoalt_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=ELttfj8F9yU"
+    },
+    {
+      "title": "Top of the World",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Shawn Mendes",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ef/Denial_Cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=zdPTMaZKwqw"
+    },
+    {
       "title": "Toxic",
       "difficulty": "Easy",
       "game": "Just Dance 2",
@@ -6292,6 +7327,24 @@
       "gameplay": "https://www.youtube.com/watch?v=vmE32Jm_ZYA"
     },
     {
+      "title": "Toxic",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Britney Spears",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/87/Toxicnext_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=aSfDT7IFWzQ"
+    },
+    {
+      "title": "Toxic (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Britney Spears",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b5/Toxicnextalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=gHPVlnOvq08"
+    },
+    {
       "title": "TOY",
       "difficulty": "Medium",
       "game": "Just Dance 2019",
@@ -6299,6 +7352,15 @@
       "artist": "Netta",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/82/Toy_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=MlYPAEfjKKM"
+    },
+    {
+      "title": "Treasure",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Bruno Mars",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Treasure_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=6roC6wdCUes"
     },
     {
       "title": "Tribal Dance",
@@ -6364,6 +7426,15 @@
       "gameplay": "https://www.youtube.com/watch?v=hjUb1p3qPBc"
     },
     {
+      "title": "Ubu Love",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "Naniwa Danshi",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9a/Ubulove_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=FeHvpMaGvi0"
+    },
+    {
       "title": "Ugly Beauty (​怪美的​)",
       "difficulty": "Easy",
       "game": "Just Dance 2020",
@@ -6371,6 +7442,15 @@
       "artist": "Jolin Tsai",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/33/Uglybeauty_jd2020_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=hvq3l3P7FO8"
+    },
+    {
+      "title": "Ugly Beauty (怪美的) (Alternate Version)",
+      "difficulty": "Hard",
+      "game": "Just Dance Unlimited China",
+      "mode": "Solo",
+      "artist": "Jolin Tsai",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9d/UglyBeautyALT_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=V3y5yv2H9js"
     },
     {
       "title": "Umbrella",
@@ -6445,6 +7525,15 @@
       "gameplay": "https://www.youtube.com/watch?v=pPCihHYh1og"
     },
     {
+      "title": "Vampire",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Olivia Rodrigo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/23/Vampire_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=ILzagPeyzYY"
+    },
+    {
       "title": "Venus",
       "difficulty": "Easy",
       "game": "Just Dance 3",
@@ -6470,6 +7559,15 @@
       "artist": "Elvis Presley",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b0/Vivalasvegas_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=cuBi_VzEmc4"
+    },
+    {
+      "title": "Vleugels",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "K3",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cb/Vleugels_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=O33_ag2P0Sk"
     },
     {
       "title": "Vodovorot",
@@ -6562,6 +7660,15 @@
       "gameplay": "https://www.youtube.com/watch?v=REeWXmNF3R0"
     },
     {
+      "title": "Walking on Sunshine",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Katrina and the Waves (Top Culture)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Walkingonsunshine_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=DjnqFj8lfUA"
+    },
+    {
       "title": "Wannabe",
       "difficulty": "Easy",
       "game": "Just Dance",
@@ -6569,6 +7676,24 @@
       "artist": "Spice Girls",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/47/Wannabe_jd1_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=VFEztpjxEfM"
+    },
+    {
+      "title": "Wannabe",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Itzy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/23/Wannabeitzyalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=XWyD3FKasfY"
+    },
+    {
+      "title": "Wannabe (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2023",
+      "mode": "Trio",
+      "artist": "Itzy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/21/Wannabeitzy_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=fGK1xZasDSc"
     },
     {
       "title": "Want To Want Me",
@@ -6598,6 +7723,24 @@
       "gameplay": "https://www.youtube.com/watch?v=lgNoFah2cI8"
     },
     {
+      "title": "Wasabi",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Little Mix",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/30/Wasabi_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=XZU4FInQxyQ"
+    },
+    {
+      "title": "Wasabi (Extreme Version)",
+      "difficulty": "Extreme",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Little Mix",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b1/WasabiALT_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=3vYLEiWmjiw"
+    },
+    {
       "title": "Watch Me (Whip/Nae Nae)",
       "difficulty": "Easy",
       "game": "Just Dance 2017",
@@ -6614,6 +7757,15 @@
       "artist": "Silentó",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/36/Naenaealt.png",
       "gameplay": "https://www.youtube.com/watch?v=KG2k6LqyHII"
+    },
+    {
+      "title": "Watch Out for This (Bumaye)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Quartet",
+      "artist": "Major Lazer ft. Busy Signal, The Flexican and FS Green",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/50/Watchoutforthis_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=Bq06M-6FpNs"
     },
     {
       "title": "Water Me",
@@ -6641,6 +7793,15 @@
       "artist": "K3",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f1/Langkawi_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=DMT3sof2vCc"
+    },
+    {
+      "title": "We Don't Talk About Bruno",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Cast from Encanto",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b4/Encanto_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=HXqKft_054g"
     },
     {
       "title": "We No Speak Americano",
@@ -6760,6 +7921,15 @@
       "gameplay": "https://www.youtube.com/watch?v=ovAgg7-5t2E"
     },
     {
+      "title": "Whitney",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Solo",
+      "artist": "Rêve",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b6/Whitney_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Y6hO887K2_U"
+    },
+    {
       "title": "Who Let the Dogs Out?",
       "difficulty": "Hard",
       "game": "Just Dance",
@@ -6805,6 +7975,15 @@
       "gameplay": "https://www.youtube.com/watch?v=-tatM3Gu8uM"
     },
     {
+      "title": "Witch",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Apashe ft. Alina Pash",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/31/Witch_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=MRq1CTh5k2k"
+    },
+    {
       "title": "Without Me",
       "difficulty": "Hard",
       "game": "Just Dance 2021",
@@ -6823,6 +8002,33 @@
       "gameplay": "https://www.youtube.com/watch?v=kQ1sbdLAWrc"
     },
     {
+      "title": "Woman",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Quartet",
+      "artist": "Doja Cat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f2/Woman_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=6c5gXVYc60U"
+    },
+    {
+      "title": "Woman (All-Mother Version)",
+      "difficulty": "Medium",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Doja Cat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/da/Womanalt_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=dDFzkcBB6Zw"
+    },
+    {
+      "title": "Woman (VIP Version)",
+      "difficulty": "Hard",
+      "game": "Just Dance 2023",
+      "mode": "Solo",
+      "artist": "Doja Cat",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fa/Womanvip_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=kNk9h22SbVE"
+    },
+    {
       "title": "Woman Like Me",
       "difficulty": "Easy",
       "game": "Just Dance Unlimited",
@@ -6839,6 +8045,15 @@
       "artist": "Britney Spears (The Gym All-Stars)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/ce/Womanizer_jd1_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=2_GizXEkhvM"
+    },
+    {
+      "title": "Woof",
+      "difficulty": "Easy",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Sofi Tukker ft. Kah-Lo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/90/Woof_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=cfy6fkNGYTE"
     },
     {
       "title": "Work Work",
@@ -6875,6 +8090,15 @@
       "artist": "Fifth Harmony ft. Kid Ink",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/10/Worthitalt.png",
       "gameplay": "https://www.youtube.com/watch?v=fBVxwep-Y6U"
+    },
+    {
+      "title": "Wouldn't It Be Nice",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "The Beach Boys (The Sunlight Shakers)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/89/BeNice_Cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=M-OfC-lnPto"
     },
     {
       "title": "X",
@@ -6976,6 +8200,15 @@
       "gameplay": "https://www.youtube.com/watch?v=rkYL_5sFZqw"
     },
     {
+      "title": "You Should See Me in a Crown",
+      "difficulty": "Medium",
+      "game": "Just Dance 2024",
+      "mode": "Duet",
+      "artist": "Billie Eilish",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7e/YouShould_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=bvqeLFvwi64"
+    },
+    {
       "title": "You Spin Me Round (Like a Record)",
       "difficulty": "Medium",
       "game": "Just Dance 2015",
@@ -7021,6 +8254,15 @@
       "gameplay": "https://www.youtube.com/watch?v=4RmA7aIddtI"
     },
     {
+      "title": "Youth is Calling (青春在召唤)",
+      "difficulty": "Medium",
+      "game": "Just Dance Unlimited China",
+      "mode": "Trio",
+      "artist": "adidas neo Just Dance",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b0/JDCYouth_Cover_Generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=nOwMd-r7gow"
+    },
+    {
       "title": "You've Got a Friend In Me",
       "difficulty": "Easy",
       "game": "Just Dance 2021",
@@ -7037,6 +8279,15 @@
       "artist": "ONUKA",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4d/Zenit_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=8IK4GYvo6TE"
+    },
+    {
+      "title": "Zooby Doo",
+      "difficulty": "Easy",
+      "game": "Just Dance 2023",
+      "mode": "Duet",
+      "artist": "Tigermonkey",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9b/Zoobydoo_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=LnnGAmvqI_4"
     }
   ]
 }
