@@ -33,11 +33,11 @@ function App() {
     setPage(targetPage);
   };
 
-  const editFavorite = (songName: string) => {
-    if (favoriteSongs.includes(songName)) {
-      setFavoriteSongs((favoriteSongs) => favoriteSongs.filter((s) => s !== songName));
+  const editFavorite = (songId: string) => {
+    if (favoriteSongs.includes(songId)) {
+      setFavoriteSongs((favoriteSongs) => favoriteSongs.filter((id) => id !== songId));
     } else {
-      setFavoriteSongs((favoriteSongs) => [...favoriteSongs, songName]);
+      setFavoriteSongs((favoriteSongs) => [...favoriteSongs, songId]);
     }
   };
 

@@ -32,7 +32,7 @@ function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteData 
                       <SongCard
                         key={index}
                         song={song}
-                        saved={favoriteData.favoriteSongs.includes(`${song.title}-${song.artist}`)}
+                        saved={favoriteData.favoriteSongs.includes(song.id.toString())}
                         onSave={favoriteData.onSave}
                       ></SongCard>
                     )
