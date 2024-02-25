@@ -14,7 +14,7 @@ function Favorites({ songs, currentPage, favoriteData }: Props) {
 
   return (
     <SongList
-      songs={songs.filter((song) => favoriteData.favoriteSongs.includes(`${song.title}-${song.artist}`))}
+      songs={songs.filter((song) => favoriteData.favoriteSongs.includes(song.id.toString()))}
       currentPage={currentPage}
       favoriteData={favoriteData}
     ></SongList>
