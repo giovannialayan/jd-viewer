@@ -127,6 +127,15 @@
       "gameplay": "https://www.youtube.com/watch?v=UCMKZw1Dwa0"
     },
     {
+      "title": "A Whole New World",
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Brad Kane & Lea Salonga (Disney's Aladdin)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Awholenewworld_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=HP6pc_5YMLs"
+    },
+    {
       "title": "A-Punk",
       "difficulty": "Easy",
       "game": "Just Dance 2",
@@ -134,6 +143,24 @@
       "artist": "Vampire Weekend",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4b/Apunk_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=dMjTOOtg3Lk"
+    },
+    {
+      "title": "Abc (Nicer)",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "GAYLE",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fd/Abcdefu_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=9TwlI6PMn7k"
+    },
+    {
+      "title": "About Damn Time",
+      "difficulty": "Hard",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Lizzo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b7/Aboutdamntime_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=zxF8UCWC5JE"
     },
     {
       "title": "Acceptable in the 80s",
@@ -730,6 +757,15 @@
       "gameplay": "https://www.youtube.com/watch?v=zlwetQV8b4g"
     },
     {
+      "title": "Beggin'",
+      "difficulty": "Hard",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Måneskin",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b7/Beggin_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=UxPSYM5b5vI"
+    },
+    {
       "title": "Believer",
       "difficulty": "Medium",
       "game": "Just Dance 2022",
@@ -836,6 +872,15 @@
       "artist": "The Weeknd",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0c/Blindinglightsalt_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=xnmVdLxQqxU"
+    },
+    {
+      "title": "Bloody Mary",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Lady Gaga",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/78/BloodyMary_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=62Yp-Gr7jwk"
     },
     {
       "title": "Blow Your Mind (Mwah)",
@@ -2008,6 +2053,15 @@
       "gameplay": "https://www.youtube.com/watch?v=eidhHak04Vk"
     },
     {
+      "title": "DJ Got Us Fallin' In Love",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Usher",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/ab/DjGotUs_jdplus_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=DJ1s9TlqY5E"
+    },
+    {
       "title": "Djadja",
       "difficulty": "Easy",
       "game": "Just Dance 2020",
@@ -2276,6 +2330,15 @@
       "artist": "Katy Perry",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d7/Et_jd3_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=woHNwNxpgzQ"
+    },
+    {
+      "title": "Euphoria",
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Loreen",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cb/Euphoria_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=TxmK5P30lcA"
     },
     {
       "title": "Everybody (Backstreet's Back)",
@@ -2816,6 +2879,15 @@
       "artist": "Tinie Tempah ft. Zara Larsson",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/72/Girlslike_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=wauYeF7nFTE"
+    },
+    {
+      "title": "Give That Wolf A Banana",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Subwoolfer",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a1/GiveThatWolf_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=kqq9E_KfDc8"
     },
     {
       "title": "God Is A Woman",
@@ -3572,6 +3644,15 @@
       "artist": "Mardi Gras",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f7/IkoIko_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=iBZ0VKRE6c8"
+    },
+    {
+      "title": "I'll Make a Man Out of You",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Donny Osmond (Disney's Mulan)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/eb/MakeAMan_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=SqsiR0eqb18"
     },
     {
       "title": "I'm An Albatraoz",
@@ -4906,6 +4987,15 @@
       "gameplay": "https://www.youtube.com/watch?v=30CW6u4w_Z0"
     },
     {
+      "title": "Miraculous Official Theme Song",
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Lou and Lenni-Kim",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/71/LadyBug_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=DyEg2O9v9EQ"
+    },
+    {
       "title": "Monster",
       "difficulty": "Hard",
       "game": "Just Dance Unlimited",
@@ -5680,6 +5770,15 @@
       "gameplay": "https://www.youtube.com/watch?v=qWsApA8Wqo8"
     },
     {
+      "title": "Provenza",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Karol G",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2c/Provenza_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=dRyMySlz4UI"
+    },
+    {
       "title": "Psycho",
       "difficulty": "Easy",
       "game": "Just Dance 2023",
@@ -5995,6 +6094,15 @@
       "gameplay": "https://www.youtube.com/watch?v=mU4U0bYHo-Y"
     },
     {
+      "title": "Sacrifice",
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "The Weeknd",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/83/Sacrifice_jdplus_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=rIS6wg24yJg"
+    },
+    {
       "title": "Sail",
       "difficulty": "Medium",
       "game": "Just Dance 2024",
@@ -6308,6 +6416,15 @@
       "artist": "Sweat Invaders",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/65/Skintoskin_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=UW-Y6cig0Oc"
+    },
+    {
+      "title": "SloMo",
+      "difficulty": "Extreme",
+      "game": "Just Dance+",
+      "mode": "Trio",
+      "artist": "Chanel",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/36/Slomo_jdplus_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=AmiCnYOrGj0"
     },
     {
       "title": "Slumber Party",
@@ -6652,6 +6769,15 @@
       "gameplay": "https://www.youtube.com/watch?v=o4CkX3BrS-s"
     },
     {
+      "title": "Sunroof",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Nicky Youre & Dazy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fb/Sunroof_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Rb1GRI41G6s"
+    },
+    {
       "title": "Super Bass",
       "difficulty": "Hard",
       "game": "Just Dance 4",
@@ -6965,6 +7091,15 @@
       "artist": "Hirokazu Tanaka (Dancing Bros.)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6f/Tetris_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=oOJsePJlp2Q"
+    },
+    {
+      "title": "thank u, next",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Ariana Grande",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/72/ThankUNext_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Pi8rfr2MCZU"
     },
     {
       "title": "That's Not My Name",
@@ -7361,6 +7496,15 @@
       "artist": "Bruno Mars",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Treasure_Cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=6roC6wdCUes"
+    },
+    {
+      "title": "Trenulețul",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Trio",
+      "artist": "Zdob și Zdub & Advahov Brothers",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a5/Trenuletul_cover.png",
+      "gameplay": "https://www.youtube.com/watch?v=zzCuPtsvYwU"
     },
     {
       "title": "Tribal Dance",
@@ -7813,6 +7957,15 @@
       "gameplay": "https://www.youtube.com/watch?v=A6FmTeXaw8w"
     },
     {
+      "title": "Wet Tennis",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Sofi Tukker",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/49/WetTennis_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=TO0QRi07Kmk"
+    },
+    {
       "title": "What Is Love",
       "difficulty": "Medium",
       "game": "Just Dance 2017",
@@ -7883,6 +8036,15 @@
       "artist": "Jermaine Jackson and Pia Zadora (Sky Trucking)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cd/Whentherain_jd2016_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=r5GWeImEZEo"
+    },
+    {
+      "title": "When Will My Life Begin?",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Mandy Moore (Disney's Tangled)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3c/WillMyLifeBegin_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=nhMCv0otmac"
     },
     {
       "title": "Where Are You Now",
@@ -8279,6 +8441,15 @@
       "artist": "ONUKA",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4d/Zenit_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=8IK4GYvo6TE"
+    },
+    {
+      "title": "Zero to Hero",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Trio",
+      "artist": "Lillias White, Cheryl Freeman, LaChanza, Roz Ryan & Vaneese Thomas\n(Disney's Hercules)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9c/Zerotohero_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=SqEU9f4CJvo"
     },
     {
       "title": "Zooby Doo",

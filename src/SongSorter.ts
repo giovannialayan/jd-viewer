@@ -19,7 +19,7 @@ const gameList = [
   'Just Dance 2023',
   'Just Dance 2024',
   'Just Dance Unlimited',
-  // 'Just Dance+',
+  'Just Dance+',
   'Just Dance China',
   'Just Dance Unlimited China',
 ];
