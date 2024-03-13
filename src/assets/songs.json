@@ -286,7 +286,7 @@
       "mode": "Solo",
       "artist": "Billie Eilish",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7f/AllTheGoodGirls_Cover_Generic.jpg",
-      "gameplay": "https://www.youtube.com/watch?v=DgzBpr2wjUE"
+      "gameplay": "https://www.youtube.com/watch?v=dgCzLmW-KgI"
     },
     {
       "title": "All The Stars",
@@ -1061,6 +1061,15 @@
       "artist": "Sabrina Salerno (The Lemon Cubes)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c8/Boysboys_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=c5TW8C1cPfA"
+    },
+    {
+      "title": "Boy's a liar Pt. 2",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "PinkPantheress & Ice Spice",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ec/Boysaliar_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=U5NCUtUbVQI"
     },
     {
       "title": "Brand New Start",
@@ -2779,7 +2788,7 @@
       "mode": "Quartet",
       "artist": "Halloween Thrills",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/69/Ghostinthekeys.png",
-      "gameplay": "https://www.youtube.com/watch?v=0aFCGNBlnZo"
+      "gameplay": "https://www.youtube.com/watch?v=1ycQtTRIz8U"
     },
     {
       "title": "Gibberish",
@@ -3284,6 +3293,15 @@
       "artist": "Madonna (The Hit Crew)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a7/Holiday_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=E1pz3xXy3K8"
+    },
+    {
+      "title": "Hollaback Girl",
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Gwen Stefani",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e1/HollabackGirl_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=RkpOwYymRac"
     },
     {
       "title": "Hot For Me",
