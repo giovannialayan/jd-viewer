@@ -11,11 +11,16 @@ interface Props {
 }
 
 function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteData }: Props) {
+  const songHasSearch = (song: Song, search: string) => {
+    return song.title.toLowerCase().includes(search.trim().toLowerCase()) || song.artist.toLowerCase().includes(search.trim().toLowerCase());
+  };
+
   return (
     <>
       {sortedSongList.map((group, index) => {
         return (
-          group.length !== 0 && (
+          group.length !== 0 &&
+          group.some((song) => songHasSearch(song, searchResult)) && (
             <div key={'container-' + index} id={groupNames[index]} className='cardGroupContainer'>
               <h3 key={'header-' + index} className='cardGroupHeader'>
                 {groupNames[index]}
@@ -23,12 +28,11 @@ function SongCardGroup({ sortedSongList, groupNames, searchResult, favoriteData 
               <CardGroup key={index}>
                 {group.map(
                   (song: Song, index: number) =>
-                    (song.title.toLowerCase().includes(searchResult.trim().toLowerCase()) ||
-                      song.artist.toLowerCase().includes(searchResult.trim().toLowerCase())) && (
+                    songHasSearch(song, searchResult) && (
                       <SongCard
                         key={index}
                         song={song}
-                        saved={favoriteData.favoriteSongs.includes(song.title)}
+                        saved={favoriteData.favoriteSongs.includes(song.id.toString())}
                         onSave={favoriteData.onSave}
                       ></SongCard>
                     )

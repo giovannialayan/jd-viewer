@@ -5,13 +5,16 @@ import RandomSong from './pages/RandomSong';
 import NavBar from './components/NavBar';
 import Favorites from './pages/Favorites';
 
+const localStoragePrefix = 'jdviewer.';
+const favoritesKey = 'favorites';
+
 function App() {
   const [page, setPage] = useState(0);
   const [favoriteSongs, setFavoriteSongs] = useState([] as string[]);
   const [itemsLoaded, setItemsLoaded] = useState(false);
 
   useEffect(() => {
-    const items = localStorage.getItem('favorites');
+    const items = localStorage.getItem(localStoragePrefix + favoritesKey);
 
     if (items) {
       setFavoriteSongs(JSON.parse(items));
@@ -22,7 +25,7 @@ function App() {
 
   useEffect(() => {
     if (itemsLoaded) {
-      localStorage.setItem('favorites', JSON.stringify(favoriteSongs));
+      localStorage.setItem(localStoragePrefix + favoritesKey, JSON.stringify(favoriteSongs));
     }
   }, [favoriteSongs]);
 
@@ -30,11 +33,11 @@ function App() {
     setPage(targetPage);
   };
 
-  const editFavorite = (songName: string) => {
-    if (favoriteSongs.includes(songName)) {
-      setFavoriteSongs((favoriteSongs) => favoriteSongs.filter((s) => s !== songName));
+  const editFavorite = (songId: string) => {
+    if (favoriteSongs.includes(songId)) {
+      setFavoriteSongs((favoriteSongs) => favoriteSongs.filter((id) => id !== songId));
     } else {
-      setFavoriteSongs((favoriteSongs) => [...favoriteSongs, songName]);
+      setFavoriteSongs((favoriteSongs) => [...favoriteSongs, songId]);
     }
   };
 
