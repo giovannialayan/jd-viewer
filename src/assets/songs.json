@@ -3341,6 +3341,16 @@
       "gameplay": "https://www.youtube.com/watch?v=l9HoHJ5pCro"
     },
     {
+      "title": "greedy",
+      "id": 942,
+      "difficulty": "Hard",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Tate McRae",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b0/Greedy_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=U98Jpmiop0I"
+    },
+    {
       "title": "Groove Is in the Heart",
       "id": 333,
       "difficulty": "Hard",
@@ -7129,6 +7139,16 @@
       "artist": "RuPaul",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9a/Sissythatwalk_cover.png",
       "gameplay": "https://www.youtube.com/watch?v=z9cUbcci-Rc"
+    },
+    {
+      "title": "Sk8er Boi",
+      "id": 943,
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Avril Lavigne",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/81/Skaterboy_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=kBGxb2h3-J8"
     },
     {
       "title": "Skibidi",
