@@ -2161,6 +2161,16 @@
       "gameplay": "https://www.youtube.com/watch?v=2tGaXndYzGw"
     },
     {
+      "title": "Darkest Hour",
+      "id": 944,
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "The Rising Swan",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/df/SweetDreams_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=Y0f6WPZt6h4"
+    },
+    {
       "title": "DDU-DU DDU-DU",
       "id": 215,
       "difficulty": "Hard",
@@ -5729,6 +5739,16 @@
       "artist": "Gert Wilden (Charleston)",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fd/MugsyBaloney_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=XqMpS2xvScs"
+    },
+    {
+      "title": "Murder on the Dancefloor",
+      "id": 945,
+      "difficulty": "Hard",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Sophie Ellis-Bextor",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a3/MurderOn_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=MJY_e0TRSVg"
     },
     {
       "title": "My Friend The Dragon",
