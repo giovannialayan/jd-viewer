@@ -1,4 +1,5 @@
 import Song from './interfaces/ISong';
+import SortedSongs from './interfaces/ISortedSongs';
 
 import _ from 'lodash';
 
@@ -31,7 +32,7 @@ const modeList = ['Solo', 'Duet', 'Trio', 'Quartet'];
 //NOTE: consider changing the groupnames so it builds it based on input song list so it returns only groups that exist in the given list
 //      this would fix favorites goto showing unused group names
 
-const sortbyTitle = (songs: Song[]) => {
+const sortbyTitle = (songs: Song[]): SortedSongs => {
   return { songList: [songs], groupNames: [] };
 };
 
@@ -47,7 +48,7 @@ const sortbyDifficulty = (songs: Song[]) => {
   return { songList: [easyList, mediumList, hardList, extremeList], groupNames: difficultyList };
 };
 
-const sortbyGame = (songs: Song[]) => {
+const sortbyGame = (songs: Song[]): SortedSongs => {
   let gameSongList = new Map();
 
   for (let i = 0; i < gameList.length; i++) {
@@ -62,7 +63,7 @@ const sortbyGame = (songs: Song[]) => {
   return { songList: Array.from(gameSongList.values()), groupNames: gameList };
 };
 
-const sortbyMode = (songs: Song[]) => {
+const sortbyMode = (songs: Song[]): SortedSongs => {
   let soloList = songs.filter((song) => song.mode == modeList[0]);
   let duetList = songs.filter((song) => song.mode == modeList[1]);
   let trioList = songs.filter((song) => song.mode == modeList[2]);
@@ -70,7 +71,7 @@ const sortbyMode = (songs: Song[]) => {
   return { songList: [soloList, duetList, trioList, quartetList], groupNames: modeList };
 };
 
-const sortbyArtist = (songs: Song[]) => {
+const sortbyArtist = (songs: Song[]): SortedSongs => {
   let artistSongList = new Map();
   let artistList = _.uniq(songs.map((song) => song.artist)).sort();
 

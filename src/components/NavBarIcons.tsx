@@ -10,7 +10,7 @@ function NavBarIcons() {
         />
       </a>
       <a href='https://github.com/giovannialayan/jd-viewer'>
-        <img className='sideIconImage' src='github.svg'></img>
+        <img className='sideIconImage' src='github.svg' alt='github link'></img>
       </a>
     </>
   );
