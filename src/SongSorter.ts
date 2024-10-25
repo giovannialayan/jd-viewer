@@ -19,6 +19,7 @@ const gameList = [
   'Just Dance 2022',
   'Just Dance 2023',
   'Just Dance 2024',
+  'Just Dance 2025',
   'Just Dance Unlimited',
   'Just Dance+',
   'Just Dance China',
@@ -37,10 +38,14 @@ const sortbyTitle = (songs: Song[]): SortedSongs => {
 };
 
 const sortbyDifficulty = (songs: Song[]) => {
-  let easyList = songs.filter((song) => song.difficulty == difficultyList[0]);
-  let mediumList = songs.filter((song) => song.difficulty == difficultyList[1]);
-  let hardList = songs.filter((song) => song.difficulty == difficultyList[2]);
-  let extremeList = songs.filter((song) => song.difficulty == difficultyList[3]);
+  // let easyList = songs.filter((song) => song.difficulty == difficultyList[0]);
+  // let mediumList = songs.filter((song) => song.difficulty == difficultyList[1]);
+  // let hardList = songs.filter((song) => song.difficulty == difficultyList[2]);
+  // let extremeList = songs.filter((song) => song.difficulty == difficultyList[3]);
+  let easyList = songs.filter((song) => song.difficulty.includes(difficultyList[0]));
+  let mediumList = songs.filter((song) => song.difficulty.includes(difficultyList[1]));
+  let hardList = songs.filter((song) => song.difficulty.includes(difficultyList[2]));
+  let extremeList = songs.filter((song) => song.difficulty.includes(difficultyList[3]));
   return { songList: [easyList, mediumList, hardList, extremeList], groupNames: difficultyList };
 };
 
