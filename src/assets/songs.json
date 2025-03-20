@@ -481,6 +481,16 @@
       "gameplay": "https://www.youtube.com/watch?v=eYs6FJlkt94"
     },
     {
+      "title": "Apple",
+      "id": 1013,
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Charli XCX",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/23/Apple_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=hTe9_5yWoVE"
+    },
+    {
       "title": "Are You Gonna Go My Way",
       "id": 48,
       "difficulty": "Easy",
@@ -1609,6 +1619,16 @@
       "artist": "Latino Sunset",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/50/Samba_Cover_Generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=f2SO3V39HuI"
+    },
+    {
+      "title": "Centuries",
+      "id": 1014,
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Fall Out Boy",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/1e/Centuries_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=nWHH4R6HzMY"
     },
     {
       "title": "Cercavo Amore",
@@ -2891,6 +2911,16 @@
       "gameplay": "https://www.youtube.com/watch?v=f4Be5BSN3ZY"
     },
     {
+      "title": "Feel So Close",
+      "id": 1015,
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Calvin Harris",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/aa/FeelSoClose_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=oMzGpYcf22s"
+    },
+    {
       "title": "Feel Special",
       "id": 274,
       "difficulty": "Easy",
@@ -4119,6 +4149,16 @@
       "artist": "Cardi B, Bad Bunny & J Balvin",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d7/Ilikeit_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=Pv0AsV5bWi0"
+    },
+    {
+      "title": "i like the way you kiss me",
+      "id": 1016,
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Duet",
+      "artist": "Artemas",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/50/YouKissMe_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=D6PflUJB3_U"
     },
     {
       "title": "I Like to Move It (Radio Mix)",
@@ -6581,6 +6621,16 @@
       "gameplay": "https://www.youtube.com/watch?v=QjCOU0_m9Xg"
     },
     {
+      "title": "Paparazzi",
+      "id": 1017,
+      "difficulty": "Medium",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Lady Gaga",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fd/Paparazzi_cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=9VGy4sHQLCg"
+    },
+    {
       "title": "Paramount Swing (百乐门Swing)",
       "id": 619,
       "difficulty": "Medium",
@@ -6699,6 +6749,16 @@
       "artist": "Dua Lipa",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5d/Physicalalt_cover.png",
       "gameplay": "https://www.youtube.com/watch?v=o6J2mqlf3mk"
+    },
+    {
+      "title": "Pigstep (Just Dance x Minecraft Version)",
+      "id": 1018,
+      "difficulty": "Easy",
+      "game": "Just Dance+",
+      "mode": "Solo",
+      "artist": "Lena Raine, Minecraft, and Dancing Bros.",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4d/Jukebox_Cover_2x.png",
+      "gameplay": "https://www.youtube.com/watch?v=fWLA2mfFWbw"
     },
     {
       "title": "Pink Venom",
@@ -7435,7 +7495,7 @@
       "id": 694,
       "difficulty": "Medium",
       "game": "Just Dance Unlimited China",
-      "mode": "Medium",
+      "mode": "Solo",
       "artist": "Shawn Mendes & Camila Cabello",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/Jdcsenorita_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=lllT0rIiims"
