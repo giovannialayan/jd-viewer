@@ -20,6 +20,7 @@ const gameList = [
   'Just Dance 2023',
   'Just Dance 2024',
   'Just Dance 2025',
+  'Just Dance 2026',
   'Just Dance Unlimited',
   'Just Dance+',
   'Just Dance China',
