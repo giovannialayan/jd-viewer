@@ -1,6 +1,36 @@
 {
   "songs": [
     {
+      "title": "#thatPOWER",
+      "id": 1067,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "will.i.am Ft. Justin Bieber",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/81/Thatpower_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=YVFlZMKVe4w"
+    },
+    {
+      "title": "#thatPOWER (Extreme Version)",
+      "id": 1068,
+      "difficulty": "Extreme",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "will.i.am Ft. Justin Bieber",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cd/Thatpoweralt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=oX4YaEBAlzU"
+    },
+    {
+      "title": "#thatPOWER (On-Stage Mode)",
+      "id": 1069,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "will.i.am Ft. Justin Bieber",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/af/Thatpoweroscdlc_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=T09uNmF_zW4"
+    },
+    {
       "title": "10.000 Luchtballonen",
       "id": 0,
       "difficulty": "Easy",
@@ -79,6 +109,16 @@
       "artist": "Ariana Grande",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/1c/7ringsalt_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=FqHSPtgEiHw"
+    },
+    {
+      "title": "99 Luftballons",
+      "id": 1070,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "NENA (Rutschen Planeten)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e7/Luftballons_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=KVHMmmtxIY4"
     },
     {
       "title": "À la Folie",
@@ -301,6 +341,16 @@
       "gameplay": "https://www.youtube.com/watch?v=nvNK7ycKJfI"
     },
     {
+      "title": "Alfonso Signorini (Eroe Nazionale)",
+      "id": 1071,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Fedez ft. Elio",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/07/Alfonso_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ZZTqp-CvjMA"
+    },
+    {
       "title": "All About That Bass",
       "id": 28,
       "difficulty": "Medium",
@@ -521,6 +571,26 @@
       "gameplay": "https://www.youtube.com/watch?v=eYs6FJlkt94"
     },
     {
+      "title": "Applause",
+      "id": 1072,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Lady Gaga",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e0/Limagolf1_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=EwUhKym99vU"
+    },
+    {
+      "title": "Applause (Alternate Version)",
+      "id": 1073,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Lady Gaga",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f1/Limagolf1altdlc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=EpmW5Hy6yFM"
+    },
+    {
       "title": "Apple",
       "id": 1013,
       "difficulty": "Easy",
@@ -549,6 +619,16 @@
       "artist": "ROSÉ & Bruno Mars",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/10/APTALT_Cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=QN9PdADaxTI"
+    },
+    {
+      "title": "Aquarius/Let the Sunshine In",
+      "id": 1074,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "The 5th Dimension (The Sunlight Shakers)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/Aquarius_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=EGe4QfhTtOo"
     },
     {
       "title": "Are You Gonna Go My Way",
@@ -1071,6 +1151,26 @@
       "gameplay": "https://www.youtube.com/watch?v=AhFXcvYJGNs"
     },
     {
+      "title": "Blame It on the Boogie",
+      "id": 1075,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Mick Jackson",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/62/Blameit_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=IwV_C8cbNdE"
+    },
+    {
+      "title": "Blame It on the Boogie (Extreme Version)",
+      "id": 1076,
+      "difficulty": "Extreme",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Mick Jackson",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/46/Blameitalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=LbPcS5Tv3XA"
+    },
+    {
       "title": "Blinding Lights",
       "id": 95,
       "difficulty": "Easy",
@@ -1129,6 +1229,26 @@
       "artist": "Bluey",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/66/DogDance_Cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=d15XYSIzmIU"
+    },
+    {
+      "title": "Blurred Lines",
+      "id": 1077,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Robin Thicke ft. Pharrell Williams",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5b/Blurredlines_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=3Rnte7gfxAc"
+    },
+    {
+      "title": "Blurred Lines (Extreme Version)",
+      "id": 1078,
+      "difficulty": "Extreme",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Robin Thicke ft. Pharrell Williams",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/36/Blurredlinesaltdlc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=Af9CcfPTFhk"
     },
     {
       "title": "Body Movin' (Fatboy Slim Remix)",
@@ -1631,6 +1751,16 @@
       "gameplay": "https://www.youtube.com/watch?v=582sS85xVnY"
     },
     {
+      "title": "Candy",
+      "id": 1079,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Robbie Williams",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ee/Candy_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=WMEidcNxFss"
+    },
+    {
       "title": "Canned Heat",
       "id": 145,
       "difficulty": "Medium",
@@ -1709,6 +1839,26 @@
       "artist": "Zara Larsson",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e1/Canttameher_cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=4SS7G89LGT8"
+    },
+    {
+      "title": "Careless Whisper",
+      "id": 1080,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "George Michael",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/75/Carelesswhisper_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=RjQvGe3YPxI"
+    },
+    {
+      "title": "Careless Whisper (On-Stage Mode)",
+      "id": 1081,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "George Michael",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/17/Carelesswhisperosc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=mDHRiJwzvvA"
     },
     {
       "title": "Carmen (Ouverture)",
@@ -1951,6 +2101,16 @@
       "gameplay": "https://www.youtube.com/watch?v=fZK4Cbscho0"
     },
     {
+      "title": "C'mon",
+      "id": 1082,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Ke$ha",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b6/Cmon_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ROxoTAnIXVY"
+    },
+    {
       "title": "Cola Song",
       "id": 174,
       "difficulty": "Medium",
@@ -2079,6 +2239,16 @@
       "artist": "Rednex",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b6/Cotton_jd1_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=CicMt6tQqEQ"
+    },
+    {
+      "title": "Could You Be Loved",
+      "id": 1083,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Bob Marley",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f7/Couldyoubeloved_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=F1BsZ0XcTZA"
     },
     {
       "title": "Counting Stars",
@@ -2281,6 +2451,16 @@
       "gameplay": "https://www.youtube.com/watch?v=P7Sim78QiN4"
     },
     {
+      "title": "Dançando",
+      "id": 1084,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Ivete Sangalo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6b/Dancando_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ANG7_YnTp0g"
+    },
+    {
       "title": "D.A.N.C.E.",
       "id": 204,
       "difficulty": "Easy",
@@ -2359,6 +2539,16 @@
       "artist": "K3",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4a/Dansvandefarao_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=Tv0tpF4lIww"
+    },
+    {
+      "title": "Danse (Pop Version)",
+      "id": 1085,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Tal",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/84/Danse_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=kcDXEYCNJmE"
     },
     {
       "title": "Dare",
@@ -3111,6 +3301,16 @@
       "gameplay": "https://www.youtube.com/watch?v=oMzGpYcf22s"
     },
     {
+      "title": "Feel So Right",
+      "id": 1086,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Imposs ft. Konshens",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/81/Feelsoright_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=hRQNtnr7VA4"
+    },
+    {
       "title": "Feel Special",
       "id": 274,
       "difficulty": "Easy",
@@ -3131,6 +3331,16 @@
       "gameplay": "https://www.youtube.com/watch?v=HG9sl33Kj88"
     },
     {
+      "title": "Feel This Moment",
+      "id": 1087,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Pitbull Ft. Christina Aguilera",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/2b/Feelthismoment_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=apCGFVBm6JM"
+    },
+    {
       "title": "Fight Club",
       "id": 276,
       "difficulty": "Medium",
@@ -3139,6 +3349,26 @@
       "artist": "Lights",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/33/Sidewinder_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=TSu3zsxseS4"
+    },
+    {
+      "title": "Fine China",
+      "id": 1088,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Chris Brown",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/87/FineChina_cover_generic.jpg",
+      "gameplay": "https://www.youtube.com/watch?v=L1ONuf8aTnA"
+    },
+    {
+      "title": "Fine China (Extreme Version)",
+      "id": 1089,
+      "difficulty": "Extreme",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Chris Brown",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/50/Finechinaalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=1oHSITJ5pdI"
     },
     {
       "title": "Finesse (Remix)",
@@ -3221,6 +3451,16 @@
       "gameplay": "https://www.youtube.com/watch?v=NLyGWLw2blc"
     },
     {
+      "title": "Flashdance... What A Feeling",
+      "id": 1090,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Irene Cara (The Girly Team)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d8/Whatafeeling_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=o3K9wohrs-Q"
+    },
+    {
       "title": "Flowers",
       "id": 285,
       "difficulty": "Easy",
@@ -3239,6 +3479,26 @@
       "artist": "Miley Cyrus",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fe/Flowersalt_cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=j4TIKs6Vv_8"
+    },
+    {
+      "title": "Follow the Leader",
+      "id": 1091,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Wisin & Yandel Ft. Jennifer Lopez",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/b/b7/Followtheleader_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=30Tlj3Enqm4"
+    },
+    {
+      "title": "Follow the Leader (Sweat Version)",
+      "id": 1092,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Wisin & Yandel Ft. Jennifer Lopez",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4f/Followtheleaderswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=30Tlj3Enqm4"
     },
     {
       "title": "Follow the White Rabbit",
@@ -3461,6 +3721,16 @@
       "gameplay": "https://www.youtube.com/watch?v=CTP2JMwMxEM"
     },
     {
+      "title": "Get Lucky",
+      "id": 1093,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Daft Punk Ft. Pharrell Williams",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/73/Getlucky_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=_DZ_DZFuBzU"
+    },
+    {
       "title": "Get Ugly",
       "id": 307,
       "difficulty": "Medium",
@@ -3479,6 +3749,26 @@
       "artist": "Halloween Thrills",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/69/Ghostinthekeys.png",
       "gameplay": "https://www.youtube.com/watch?v=1ycQtTRIz8U"
+    },
+    {
+      "title": "Ghostbusters",
+      "id": 1094,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Ray Parker Jr.",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c6/Ghostbusters_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=PvihHfgmhAs"
+    },
+    {
+      "title": "Ghostbusters (Sweat Version)",
+      "id": 1095,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Ray Parker Jr.",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/61/Ghostbustersswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=PMb-Tuy2VXo"
     },
     {
       "title": "Gibberish",
@@ -3529,6 +3819,26 @@
       "artist": "Britney Spears",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/18/GimmeMoreALT_Cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=jtKHOieZK5U"
+    },
+    {
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "id": 1096,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "ABBA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/4f/Gimmegimme_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=NP_nqh-9I_Y"
+    },
+    {
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight) (On-Stage Mode)",
+      "id": 1097,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "ABBA",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/db/Gimmegimmeosc_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=mmhrSlLbc1w"
     },
     {
       "title": "GIRL LIKE ME",
@@ -4421,6 +4731,36 @@
       "gameplay": "https://www.youtube.com/watch?v=wU1XRI5TsD8"
     },
     {
+      "title": "I Kissed a Girl",
+      "id": 1098,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Katy Perry",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Ikissed_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=WUtExVUsIE0"
+    },
+    {
+      "title": "I Kissed a Girl (On-Stage Mode)",
+      "id": 1099,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "Katy Perry",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/ac/Ikissedosc_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=-mROkJJ0ucI"
+    },
+    {
+      "title": "I Kissed a Girl (Sweat Version)",
+      "id": 1100,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Katy Perry",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/eb/Ikissedswt_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ED1rL_5d2Qc"
+    },
+    {
       "title": "I Knew You Were Trouble",
       "id": 387,
       "difficulty": "Medium",
@@ -4549,6 +4889,16 @@
       "artist": "Gloria Gaynor",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e6/Iwillsurvive_jdu_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=Ai_UTvxtNeA"
+    },
+    {
+      "title": "I Will Survive (On-Stage Mode)",
+      "id": 1101,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "Gloria Gaynor",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/44/Iwillsurviveosc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=0Vuk-FF5FSA"
     },
     {
       "title": "Ice Cream",
@@ -4731,6 +5081,16 @@
       "gameplay": "https://www.youtube.com/watch?v=d4mooWeHpy8"
     },
     {
+      "title": "In the Summertime",
+      "id": 1102,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Mungo Jerry",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/19/Summertime_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ywZzHkna2M4"
+    },
+    {
       "title": "In Your Eyes (Remix)",
       "id": 974,
       "difficulty": "Medium",
@@ -4811,6 +5171,16 @@
       "gameplay": "https://www.youtube.com/watch?v=_Omx6MPnlBE"
     },
     {
+      "title": "Isidora",
+      "id": 1103,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Bog Bog Orkestar",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3d/Zagreb_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=DBzGsON_wj8"
+    },
+    {
       "title": "Istanbul (Not Constantinople)",
       "id": 423,
       "difficulty": "Easy",
@@ -4889,6 +5259,26 @@
       "artist": "Andy Williams",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/62/Wonderfultime_cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=OI9Ipb4xClc"
+    },
+    {
+      "title": "It's You",
+      "id": 1104,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Duck Sauce",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/42/Itsyou_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=KBrgalhOLw8"
+    },
+    {
+      "title": "It's You (Sweat Version)",
+      "id": 1105,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Duck Sauce",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/40/Itsyouswt_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=4kFZvBkODro"
     },
     {
       "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
@@ -5191,6 +5581,16 @@
       "gameplay": "https://www.youtube.com/watch?v=ePVmrXmyVSA"
     },
     {
+      "title": "Just A Gigolo",
+      "id": 1106,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Louis Prima",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/73/Gigolo_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=yOu9WIArJQo"
+    },
+    {
       "title": "Just An Illusion",
       "id": 460,
       "difficulty": "Medium",
@@ -5199,6 +5599,36 @@
       "artist": "Equinox Stars",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f4/Justanillusion_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=mKcCk3RHj8I"
+    },
+    {
+      "title": "Just Dance",
+      "id": 1107,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Lady Gaga Ft. Colby O' Donis",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a4/Justdance_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=INBYhg504Js"
+    },
+    {
+      "title": "Just Dance (On-Stage Mode)",
+      "id": 1108,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "Lady Gaga Ft. Colby O' Donis",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d1/Justdanceosc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=JFyb-6929JY"
+    },
+    {
+      "title": "Just Dance (Sweat Version)",
+      "id": 1109,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Lady Gaga Ft. Colby O' Donis",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/ac/Justdanceswtdlc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=3G2Co5r40FQ"
     },
     {
       "title": "Kaboom Pow",
@@ -5319,6 +5749,36 @@
       "artist": "Doja Cat & SZA",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ef/Kissmemore_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=c1tUj51fdJ0"
+    },
+    {
+      "title": "Kiss You",
+      "id": 1110,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "One Direction",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ea/Kissyou_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=_QBmzCYoblY"
+    },
+    {
+      "title": "Kiss You (Alternate Version)",
+      "id": 1111,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "6 Player Dance Crew",
+      "artist": "One Direction",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/cc/Kissyousix_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=JktuR633M54"
+    },
+    {
+      "title": "Kiss You (Sweat Version)",
+      "id": 1112,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "One Direction",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/80/Kissyouswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=zqoanG5GHG8"
     },
     {
       "title": "Kissing Strangers",
@@ -5651,6 +6111,26 @@
       "gameplay": "https://www.youtube.com/watch?v=Fh4a7Xz0ku8"
     },
     {
+      "title": "Limbo",
+      "id": 1113,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Daddy Yankee",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5d/Limbo_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=JKXD1ggXMRY"
+    },
+    {
+      "title": "Limbo (Sweat Version)",
+      "id": 1114,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Daddy Yankee",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/26/Limboswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=LbHG7x6lpwg"
+    },
+    {
       "title": "Little Apple (小苹果)",
       "id": 504,
       "difficulty": "Medium",
@@ -5729,6 +6209,16 @@
       "artist": "Dua Lipa",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/80/Loveagain_cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=wMJu5Aq9ou8"
+    },
+    {
+      "title": "Love Boat",
+      "id": 1115,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Jack Jones (Frankie Bostello)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/70/Loveboat_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=Krjc3jZW634"
     },
     {
       "title": "Love Is All",
@@ -6071,6 +6561,26 @@
       "gameplay": "https://www.youtube.com/watch?v=lhPxlr63yNs"
     },
     {
+      "title": "María",
+      "id": 1116,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Ricky Martin",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/f0/Maria_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=haz7ruDJ1kQ"
+    },
+    {
+      "title": "María (Sweat Version)",
+      "id": 1117,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Ricky Martin",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/ac/Mariaswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=cR1A_py-zXU"
+    },
+    {
       "title": "Mas Que Nada",
       "id": 541,
       "difficulty": "Easy",
@@ -6231,6 +6741,16 @@
       "gameplay": "https://www.youtube.com/watch?v=DyEg2O9v9EQ"
     },
     {
+      "title": "Miss Understood",
+      "id": 1118,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Sammie",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0f/Misunderstood_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=4cr9d372Ui8"
+    },
+    {
       "title": "Monster",
       "id": 555,
       "difficulty": "Hard",
@@ -6319,6 +6839,16 @@
       "artist": "K/DA ft. Madison Beer, (G)-IDLE, Lexie Liu, Seraphine, Jaira Burns",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/25/Morealt_cover.png",
       "gameplay": "https://www.youtube.com/watch?v=tSmz5ys773w"
+    },
+    {
+      "title": "Moskau",
+      "id": 1119,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Dschinghis Khan (Dancing Bros.)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/21/Moskau_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=OsR1gAfM-5w"
     },
     {
       "title": "Move Like Jagger",
@@ -6644,11 +7174,11 @@
       "title": "Nitro Bot",
       "id": 592,
       "difficulty": "Medium",
-      "game": "Just Dance 2015",
+      "game": "Just Dance 2014",
       "mode": "Duet",
       "artist": "Sentai Express",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/6/6d/Robotrock_jdu_cover_generic.png",
-      "gameplay": "https://www.youtube.com/watch?v=bQ9whvT9iJE"
+      "gameplay": "https://www.youtube.com/watch?v=ulxcU4RoWrE"
     },
     {
       "title": "No Control",
@@ -7261,6 +7791,26 @@
       "gameplay": "https://www.youtube.com/watch?v=_BXkH7z6DRA"
     },
     {
+      "title": "Pound The Alarm",
+      "id": 1120,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c7/Poundthealarm_jdu_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=O_cFTxsfpfE"
+    },
+    {
+      "title": "Pound The Alarm (Extreme Version)",
+      "id": 1121,
+      "difficulty": "Extreme",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fc/Poundthealarmaltdlc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=NiwQGvIdexs"
+    },
+    {
       "title": "Prehistorock",
       "id": 1056,
       "difficulty": "Easy",
@@ -7289,6 +7839,16 @@
       "artist": "Marina and The Diamonds",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/f/fd/Primadonna_jdnow_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=L3C23SPrx_Q"
+    },
+    {
+      "title": "Prince Ali",
+      "id": 1122,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Robin Williams (Disney's Aladdin)",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3f/Princeali_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=sey68kWKSLw"
     },
     {
       "title": "Princess (王妃)",
@@ -7571,6 +8131,26 @@
       "gameplay": "https://www.youtube.com/watch?v=12ypwY8sqm4"
     },
     {
+      "title": "Rich Girl",
+      "id": 1123,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Gwen Stefani Ft. Eve",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/3d/Richgirl_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=GJN1U-Po3jc"
+    },
+    {
+      "title": "Rich Girl (Chair Version)",
+      "id": 1124,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Gwen Stefani Ft. Eve",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/4/46/Richgirlalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=xStg5wXjkfE"
+    },
+    {
       "title": "Ring My Bell",
       "id": 664,
       "difficulty": "Medium",
@@ -7719,6 +8299,16 @@
       "artist": "The Weeknd",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/83/Sacrifice_jdplus_cover.png",
       "gameplay": "https://www.youtube.com/watch?v=rIS6wg24yJg"
+    },
+    {
+      "title": "Safe And Sound",
+      "id": 1125,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Capital Cities",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/1/15/Safeandsound_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=bHSzpznhm7A"
     },
     {
       "title": "Sail",
@@ -7959,6 +8549,16 @@
       "artist": "5 Seconds Of Summer",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/2/22/Soperfect_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=u4E8PtqUjMM"
+    },
+    {
+      "title": "She Wolf (Falling to Pieces)",
+      "id": 1126,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "David Guetta Ft. Sia",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/74/Shewolf_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=YRDrSnID6MI"
     },
     {
       "title": "She's Got Me Dancing",
@@ -8379,6 +8979,26 @@
       "artist": "Imposs",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/e8/Stadiumflowfan.jpg",
       "gameplay": "https://www.youtube.com/watch?v=z0um6TJWR_I"
+    },
+    {
+      "title": "Starships",
+      "id": 1127,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/0/0a/Starships_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=JB6yPAlSVgs"
+    },
+    {
+      "title": "Starships (Charleston Version)",
+      "id": 1128,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Nicki Minaj",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/76/Starshipsalt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=OTDQqjMguyk"
     },
     {
       "title": "Stay",
@@ -9082,13 +9702,23 @@
     },
     {
       "title": "The Other Side",
+      "id": 1129,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Jason Derulo",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7b/Otherside_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=FsADub-V5dw"
+    },
+    {
+      "title": "The Other Side (from Trolls World Tour)",
       "id": 798,
       "difficulty": "Medium",
       "game": "Just Dance 2021",
       "mode": "Solo",
       "artist": "SZA & Justin Timberlake",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7d/Othersidesza_cover_generic.jpg",
-      "gameplay": "https://www.youtube.com/watch?v=TkXMYd4Uwz8"
+      "gameplay": "https://www.youtube.com/watch?v=gNVvlr7_g70"
     },
     {
       "title": "The Power",
@@ -9129,6 +9759,16 @@
       "artist": "The Black Eyed Peas",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/7a/Thetimealt_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=2NGt0p_aiGQ"
+    },
+    {
+      "title": "The Way",
+      "id": 1130,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Ariana Grande Ft. Mac Miller",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/d/d1/Theway_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=DV1UXAOhvao"
     },
     {
       "title": "The Way I Are",
@@ -9491,6 +10131,26 @@
       "gameplay": "https://www.youtube.com/watch?v=8oB6XcmAzPo"
     },
     {
+      "title": "Troublemaker",
+      "id": 1131,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Olly Murs Ft. Flo Rida",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/87/Troublemaker_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=zM94c1n7aFw"
+    },
+    {
+      "title": "Troublemaker (Sweat)",
+      "id": 1132,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Olly Murs Ft. Flo Rida",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/c/c7/Troublemakerswt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=gLEoaPhcI3Y"
+    },
+    {
       "title": "Tumbum",
       "id": 836,
       "difficulty": "Easy",
@@ -9509,6 +10169,26 @@
       "artist": "Yemi Alade",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/31/Tumbumalt_cover_generic.jpg",
       "gameplay": "https://www.youtube.com/watch?v=0YUxv-m6OaY"
+    },
+    {
+      "title": "Turn Up the Love",
+      "id": 1133,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Duet",
+      "artist": "Far East Movement Ft. Cover Drive",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ed/Turnupthelove_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=ZoBKemKNjM4"
+    },
+    {
+      "title": "Turn Up the Love (Sumo)",
+      "id": 1134,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Far East Movement Ft. Cover Drive",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/76/Turnupthelovealt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=rV-rOpkFWfA"
     },
     {
       "title": "Tusa",
@@ -9819,6 +10499,16 @@
       "artist": "Wham!",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/36/WakeMeUpALT_Cover_Generic.png",
       "gameplay": "https://www.youtube.com/watch?v=mkIj8Sh3WSw"
+    },
+    {
+      "title": "Waking Up in Vegas",
+      "id": 1135,
+      "difficulty": "Medium",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Katy Perry",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/a/a8/Wakingup_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=3oJJhgdFrxQ"
     },
     {
       "title": "Walk Like an Egyptian",
@@ -10191,6 +10881,36 @@
       "gameplay": "https://www.youtube.com/watch?v=Mpa8DwTZZvo"
     },
     {
+      "title": "Where Have You Been",
+      "id": 1136,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Rihanna",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/9/9f/Wherehaveyou_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=SFUcfeihNUw"
+    },
+    {
+      "title": "Where Have You Been (Extreme Version)",
+      "id": 1137,
+      "difficulty": "Extreme",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Rihanna",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/3/34/Wherehaveyoualt_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=GfD6GJ7F1nA"
+    },
+    {
+      "title": "Where Have You Been (On-Stage Mode)",
+      "id": 1138,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Trio",
+      "artist": "Rihanna",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/5d/Wherehaveyouosc_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=9AtwD_Fn_qQ"
+    },
+    {
       "title": "Wherever I Go",
       "id": 896,
       "difficulty": "Easy",
@@ -10239,6 +10959,16 @@
       "artist": "Love Letter",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/7/71/Whyowhy_jd2_cover_generic.png",
       "gameplay": "https://www.youtube.com/watch?v=TyfulHXMH3I"
+    },
+    {
+      "title": "Wild",
+      "id": 1139,
+      "difficulty": "Hard",
+      "game": "Just Dance 2014",
+      "mode": "Solo",
+      "artist": "Jessie J ft. Big Sean",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/8/87/Wild_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=dgddMAHqh68"
     },
     {
       "title": "Wild Wild West",
@@ -10469,6 +11199,16 @@
       "artist": "Ariana Grande",
       "thumbnail": "https://static.wikia.nocookie.net/justdance/images/5/59/YesAnd_Cover_2x.png",
       "gameplay": "https://www.youtube.com/watch?v=XAmw5Vwz4Hs"
+    },
+    {
+      "title": "Y.M.C.A.",
+      "id": 1140,
+      "difficulty": "Easy",
+      "game": "Just Dance 2014",
+      "mode": "Dance Crew",
+      "artist": "Village People",
+      "thumbnail": "https://static.wikia.nocookie.net/justdance/images/e/ea/Ymca_jd2014_cover_generic.png",
+      "gameplay": "https://www.youtube.com/watch?v=KG9HF7NpgYw"
     },
     {
       "title": "YO LE LLEGO",
