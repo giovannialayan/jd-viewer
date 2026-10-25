@@ -21,6 +21,7 @@ const gameList = [
   'Just Dance 2024',
   'Just Dance 2025',
   'Just Dance 2026',
+  'Just Dance: Decades of Hits',
   'Just Dance Unlimited',
   'Just Dance+',
   'Just Dance China',
@@ -28,7 +29,7 @@ const gameList = [
 ];
 
 const difficultyList = ['Easy', 'Medium', 'Hard', 'Extreme'];
-const modeList = ['Solo', 'Duet', 'Trio', 'Quartet', 'Hold My Hand'];
+const modeList = ['Solo', 'Duet', 'Trio', 'Quartet', 'Quintet', 'Hold My Hand'];
 // const letterList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
 
 //NOTE: consider changing the groupnames so it builds it based on input song list so it returns only groups that exist in the given list
@@ -70,8 +71,9 @@ const sortbyMode = (songs: Song[]): SortedSongs => {
   let duetList = songs.filter((song) => song.mode == modeList[1]);
   let trioList = songs.filter((song) => song.mode == modeList[2]);
   let quartetList = songs.filter((song) => song.mode == modeList[3]);
-  let holdMyHandList = songs.filter((song) => song.mode == modeList[4]);
-  return { songList: [soloList, duetList, trioList, quartetList, holdMyHandList], groupNames: modeList };
+  let quintetList = songs.filter((song) => song.mode == modeList[4]);
+  let holdMyHandList = songs.filter((song) => song.mode == modeList[5]);
+  return { songList: [soloList, duetList, trioList, quartetList, quintetList, holdMyHandList], groupNames: modeList };
 };
 
 const sortbyArtist = (songs: Song[]): SortedSongs => {
