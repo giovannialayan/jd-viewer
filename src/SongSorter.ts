@@ -29,7 +29,7 @@ const gameList = [
 ];
 
 const difficultyList = ['Easy', 'Medium', 'Hard', 'Extreme'];
-const modeList = ['Solo', 'Duet', 'Trio', 'Quartet', 'Quintet', 'Hold My Hand'];
+const modeList = ['Solo', 'Duet', 'Trio', 'Quartet', 'Quintet', 'Sextet', 'Hold My Hand'];
 // const letterList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
 
 //NOTE: consider changing the groupnames so it builds it based on input song list so it returns only groups that exist in the given list
